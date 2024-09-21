@@ -113,9 +113,9 @@ h1 {
 .footer {
     background-color: #fdd835; /* Yellow background */
     color: #333;
-    padding: 10px;
+    padding: 0px;
     border-radius: 0 0 15px 15px; /* Rounded corners at the bottom */
-    margin-top: 20px; /* Space above the footer */
+    margin-top: 0px; /* Space above the footer */
 }
 
 #next-btn:hover {
