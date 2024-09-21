@@ -639,6 +639,166 @@
     "C": "Cylindrical",
     "D": "Spherical",
     "answer": "B"
+  },
+  {
+    "question": "Who was the first emperor of the Maurya Dynasty?",
+    "A": "Bindusara",
+    "B": "Chandragupta Maurya",
+    "C": "Ashoka",
+    "D": "Bimbisara",
+    "answer": "B"
+  },
+  {
+    "question": "In which year did India gain independence from British rule?",
+    "A": "1945",
+    "B": "1947",
+    "C": "1950",
+    "D": "1946",
+    "answer": "B"
+  },
+  {
+    "question": "Who is known as the 'Iron Man of India'?",
+    "A": "Mahatma Gandhi",
+    "B": "Subhas Chandra Bose",
+    "C": "Jawaharlal Nehru",
+    "D": "Sardar Vallabhbhai Patel",
+    "answer": "D"
+  },
+  {
+    "question": "Which Mughal emperor built the Taj Mahal?",
+    "A": "Akbar",
+    "B": "Aurangzeb",
+    "C": "Shah Jahan",
+    "D": "Humayun",
+    "answer": "C"
+  },
+  {
+    "question": "The Battle of Plassey was fought in which year?",
+    "A": "1757",
+    "B": "1761",
+    "C": "1775",
+    "D": "1780",
+    "answer": "A"
+  },
+  {
+    "question": "Who was the first Indian to be elected as the President of the Indian National Congress?",
+    "A": "Jawaharlal Nehru",
+    "B": "Dadabhai Naoroji",
+    "C": "Mahatma Gandhi",
+    "D": "Bal Gangadhar Tilak",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following movements was led by Mahatma Gandhi in 1942?",
+    "A": "Dandi March",
+    "B": "Non-Cooperation Movement",
+    "C": "Civil Disobedience Movement",
+    "D": "Quit India Movement",
+    "answer": "D"
+  },
+  {
+    "question": "Who was the founder of the Gupta Empire?",
+    "A": "Samudragupta",
+    "B": "Chandragupta I",
+    "C": "Chandragupta II",
+    "D": "Skandagupta",
+    "answer": "B"
+  },
+  {
+    "question": "The Revolt of 1857 began from which city?",
+    "A": "Delhi",
+    "B": "Meerut",
+    "C": "Kanpur",
+    "D": "Lucknow",
+    "answer": "B"
+  },
+  {
+    "question": "Who was the Viceroy of India during the partition of Bengal in 1905?",
+    "A": "Lord Curzon",
+    "B": "Lord Mountbatten",
+    "C": "Lord Ripon",
+    "D": "Lord Dalhousie",
+    "answer": "A"
+  },
+  {
+    "question": "Which Indian ruler fought against Alexander the Great?",
+    "A": "Chandragupta Maurya",
+    "B": "Porus",
+    "C": "Ashoka",
+    "D": "Bindusara",
+    "answer": "B"
+  },
+  {
+    "question": "The First War of Indian Independence is also known as:",
+    "A": "Sepoy Mutiny",
+    "B": "Non-Cooperation Movement",
+    "C": "Civil Disobedience Movement",
+    "D": "Jallianwala Bagh Massacre",
+    "answer": "A"
+  },
+  {
+    "question": "Which act allowed the British government to imprison anyone without trial?",
+    "A": "Rowlatt Act",
+    "B": "Pitt's India Act",
+    "C": "Charter Act",
+    "D": "Government of India Act",
+    "answer": "A"
+  },
+  {
+    "question": "Who founded the Brahmo Samaj in 1828?",
+    "A": "Swami Vivekananda",
+    "B": "Raja Ram Mohan Roy",
+    "C": "Dayanand Saraswati",
+    "D": "Ishwar Chandra Vidyasagar",
+    "answer": "B"
+  },
+  {
+    "question": "Who was the first woman to become the Governor of an Indian state?",
+    "A": "Sarojini Naidu",
+    "B": "Indira Gandhi",
+    "C": "Vijaya Lakshmi Pandit",
+    "D": "Sucheta Kriplani",
+    "answer": "A"
+  },
+  {
+    "question": "In which year was the Indian Constitution adopted?",
+    "A": "1947",
+    "B": "1949",
+    "C": "1950",
+    "D": "1952",
+    "answer": "B"
+  },
+  {
+    "question": "Which empire is known for its contribution to the Ajanta and Ellora caves?",
+    "A": "Maurya Empire",
+    "B": "Gupta Empire",
+    "C": "Chola Empire",
+    "D": "Rashtrakuta Empire",
+    "answer": "D"
+  },
+  {
+    "question": "Who led the Salt Satyagraha in 1930?",
+    "A": "Subhas Chandra Bose",
+    "B": "Bal Gangadhar Tilak",
+    "C": "Jawaharlal Nehru",
+    "D": "Mahatma Gandhi",
+    "answer": "D"
+  },
+  {
+    "question": "Which Indian Prime Minister signed the Tashkent Agreement in 1966?",
+    "A": "Jawaharlal Nehru",
+    "B": "Lal Bahadur Shastri",
+    "C": "Indira Gandhi",
+    "D": "Morarji Desai",
+    "answer": "B"
+  },
+  {
+    "question": "Who wrote the book 'Discovery of India'?",
+    "A": "Rabindranath Tagore",
+    "B": "Mahatma Gandhi",
+    "C": "Jawaharlal Nehru",
+    "D": "Subhas Chandra Bose",
+    "answer": "C"
   }
   
 ]
