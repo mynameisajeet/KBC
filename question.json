@@ -5071,6 +5071,494 @@
     "C": "कर्ण",
     "D": "दुर्योधन",
     "answer": "A"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "A": "Thomas Jefferson",
+    "B": "Abraham Lincoln",
+    "C": "George Washington",
+    "D": "John Adams",
+    "answer": "C"
+  },
+  {
+    "question": "Which ancient civilization is known for its pyramids?",
+    "A": "Mesopotamia",
+    "B": "Ancient Egypt",
+    "C": "Indus Valley",
+    "D": "Maya",
+    "answer": "B"
+  },
+  {
+    "question": "What year did World War II begin?",
+    "A": "1939",
+    "B": "1941",
+    "C": "1945",
+    "D": "1937",
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote 'The Republic'?",
+    "A": "Plato",
+    "B": "Aristotle",
+    "C": "Socrates",
+    "D": "Homer",
+    "answer": "A"
+  },
+  {
+    "question": "Which empire was ruled by Genghis Khan?",
+    "A": "Mongol Empire",
+    "B": "Ottoman Empire",
+    "C": "Roman Empire",
+    "D": "Byzantine Empire",
+    "answer": "A"
+  },
+  {
+    "question": "What was the primary cause of the American Civil War?",
+    "A": "Slavery",
+    "B": "Taxation",
+    "C": "Territorial Expansion",
+    "D": "Trade Disputes",
+    "answer": "A"
+  },
+  {
+    "question": "In which country did the Renaissance begin?",
+    "A": "France",
+    "B": "Italy",
+    "C": "Germany",
+    "D": "Spain",
+    "answer": "B"
+  },
+  {
+    "question": "What was the main purpose of the Great Wall of China?",
+    "A": "Trade",
+    "B": "Defense",
+    "C": "Transportation",
+    "D": "Communication",
+    "answer": "B"
+  },
+  {
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "A": "Margaret Thatcher",
+    "B": "Theresa May",
+    "C": "Angela Merkel",
+    "D": "Indira Gandhi",
+    "answer": "A"
+  },
+  {
+    "question": "What event started the French Revolution?",
+    "A": "Storming of the Bastille",
+    "B": "Declaration of the Rights of Man",
+    "C": "Execution of Louis XVI",
+    "D": "Reign of Terror",
+    "answer": "A"
+  },
+  {
+    "question": "Which empire was known for its extensive road system and engineering?",
+    "A": "Roman Empire",
+    "B": "Mughal Empire",
+    "C": "Ottoman Empire",
+    "D": "Aztec Empire",
+    "answer": "A"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "A": "Marie Curie",
+    "B": "Louis Pasteur",
+    "C": "Alexander Fleming",
+    "D": "Isaac Newton",
+    "answer": "C"
+  },
+  {
+    "question": "What was the primary ideology behind the Cold War?",
+    "A": "Communism vs. Capitalism",
+    "B": "Nationalism vs. Imperialism",
+    "C": "Monarchy vs. Democracy",
+    "D": "Socialism vs. Anarchism",
+    "answer": "A"
+  },
+  {
+    "question": "Which event marked the beginning of the Great Depression?",
+    "A": "Stock Market Crash of 1929",
+    "B": "World War I",
+    "C": "Dust Bowl",
+    "D": "New Deal",
+    "answer": "A"
+  },
+  {
+    "question": "Who was known as the 'Iron Lady'?",
+    "A": "Golda Meir",
+    "B": "Margaret Thatcher",
+    "C": "Indira Gandhi",
+    "D": "Angela Merkel",
+    "answer": "B"
+  },
+  {
+    "question": "Which country was the first to grant women the right to vote?",
+    "A": "United States",
+    "B": "New Zealand",
+    "C": "Finland",
+    "D": "Australia",
+    "answer": "B"
+  },
+  {
+    "question": "What ancient civilization is known for the Code of Hammurabi?",
+    "A": "Egyptian",
+    "B": "Babylonian",
+    "C": "Greek",
+    "D": "Roman",
+    "answer": "B"
+  },
+  {
+    "question": "Who was the leader of the Soviet Union during World War II?",
+    "A": "Leon Trotsky",
+    "B": "Vladimir Lenin",
+    "C": "Joseph Stalin",
+    "D": "Mikhail Gorbachev",
+    "answer": "C"
+  },
+  {
+    "question": "What was the name of the ship that sank in 1912 after hitting an iceberg?",
+    "A": "Lusitania",
+    "B": "Queen Mary",
+    "C": "Titanic",
+    "D": "Britannic",
+    "answer": "C"
+  },
+  {
+    "question": "Which country was responsible for the first atomic bomb?",
+    "A": "Germany",
+    "B": "United States",
+    "C": "Japan",
+    "D": "Russia",
+    "answer": "B"
+  },
+  {
+    "question": "What was the main reason for the fall of the Roman Empire?",
+    "A": "Economic Decline",
+    "B": "Military Defeats",
+    "C": "Political Corruption",
+    "D": "All of the Above",
+    "answer": "D"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "A": "Vincent Van Gogh",
+    "B": "Pablo Picasso",
+    "C": "Leonardo da Vinci",
+    "D": "Claude Monet",
+    "answer": "C"
+  },
+  {
+    "question": "What was the primary cause of World War I?",
+    "A": "Assassination of Archduke Ferdinand",
+    "B": "Treaty of Versailles",
+    "C": "Imperialism",
+    "D": "Nationalism",
+    "answer": "A"
+  },
+  {
+    "question": "Which empire was known for its cultural and architectural achievements in the 16th century?",
+    "A": "Mughal Empire",
+    "B": "Ottoman Empire",
+    "C": "Persian Empire",
+    "D": "Roman Empire",
+    "answer": "A"
+  },
+  {
+    "question": "Who was the first person to circumnavigate the globe?",
+    "A": "Ferdinand Magellan",
+    "B": "Christopher Columbus",
+    "C": "James Cook",
+    "D": "Marco Polo",
+    "answer": "A"
+  },
+  {
+    "question": "What is the Magna Carta?",
+    "A": "A document that limited the powers of the king",
+    "B": "A treaty ending the Crusades",
+    "C": "A declaration of independence",
+    "D": "A set of laws",
+    "answer": "A"
+  },
+  {
+    "question": "Which city was the capital of the Aztec Empire?",
+    "A": "Tenochtitlan",
+    "B": "Machu Picchu",
+    "C": "Cuzco",
+    "D": "Lima",
+    "answer": "A"
+  },
+  {
+    "question": "What was the Berlin Wall a symbol of?",
+    "A": "World War I",
+    "B": "Cold War",
+    "C": "Industrial Revolution",
+    "D": "Renaissance",
+    "answer": "B"
+  },
+  {
+    "question": "Which conflict was fought between the North and South in the United States?",
+    "A": "World War I",
+    "B": "American Civil War",
+    "C": "War of 1812",
+    "D": "Revolutionary War",
+    "answer": "B"
+  },
+  {
+    "question": "Who was the famous British Prime Minister during World War II?",
+    "A": "Winston Churchill",
+    "B": "Neville Chamberlain",
+    "C": "Clement Attlee",
+    "D": "Tony Blair",
+    "answer": "A"
+  },
+  {
+    "question": "Which revolution began in 1775 in America?",
+    "A": "French Revolution",
+    "B": "Industrial Revolution",
+    "C": "American Revolution",
+    "D": "Russian Revolution",
+    "answer": "C"
+  },
+  {
+    "question": "What was the primary purpose of the Crusades?",
+    "A": "Trade Expansion",
+    "B": "Religious Warfare",
+    "C": "Political Control",
+    "D": "Colonization",
+    "answer": "B"
+  },
+  {
+    "question": "Which ancient city is known for its hanging gardens?",
+    "A": "Babylon",
+    "B": "Athens",
+    "C": "Rome",
+    "D": "Carthage",
+    "answer": "A"
+  },
+  {
+    "question": "Who was the famous leader of the Indian independence movement?",
+    "A": "Jawaharlal Nehru",
+    "B": "Mahatma Gandhi",
+    "C": "Subhas Chandra Bose",
+    "D": "B. R. Ambedkar",
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary significance of the Treaty of Versailles?",
+    "A": "Ended World War I",
+    "B": "Started World War II",
+    "C": "Divided Germany",
+    "D": "Created the League of Nations",
+    "answer": "A"
+  },
+  {
+    "question": "Who was the last Tsar of Russia?",
+    "A": "Peter the Great",
+    "B": "Nicholas II",
+    "C": "Alexander II",
+    "D": "Catherine the Great",
+    "answer": "B"
+  },
+  {
+    "question": "Which war was fought between the British and the Boers?",
+    "A": "World War I",
+    "B": "World War II",
+    "C": "Second Boer War",
+    "D": "Crimean War",
+    "answer": "C"
+  },
+  {
+    "question": "What was the primary purpose of the Marshall Plan?",
+    "A": "Rebuild Europe after WWII",
+    "B": "Spread Communism",
+    "C": "Expand US Military Presence",
+    "D": "Establish NATO",
+    "answer": "A"
+  },
+  {
+    "question": "Who led the Soviet Union during the Cuban Missile Crisis?",
+    "A": "Leonid Brezhnev",
+    "B": "Nikita Khrushchev",
+    "C": "Joseph Stalin",
+    "D": "Mikhail Gorbachev",
+    "answer": "B"
+  },
+  {
+    "question": "Which famous battle was fought in 1066?",
+    "A": "Battle of Hastings",
+    "B": "Battle of Waterloo",
+    "C": "Battle of Agincourt",
+    "D": "Battle of Gettysburg",
+    "answer": "A"
+  },
+  {
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "A": "Amelia Earhart",
+    "B": "Bessie Coleman",
+    "C": "Harriet Quimby",
+    "D": "Jacqueline Cochran",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the ancient Greek city-state known for its military?",
+    "A": "Athens",
+    "B": "Sparta",
+    "C": "Corinth",
+    "D": "Thebes",
+    "answer": "B"
+  },
+  {
+    "question": "What ancient document established the rights of nobles in England?",
+    "A": "Magna Carta",
+    "B": "English Bill of Rights",
+    "C": "Petition of Right",
+    "D": "Treaty of Utrecht",
+    "answer": "A"
+  },
+  {
+    "question": "Who was the leader of the Haitian Revolution?",
+    "A": "Toussaint Louverture",
+    "B": "Simón Bolívar",
+    "C": "José de San Martín",
+    "D": "Emiliano Zapata",
+    "answer": "A"
+  },
+  {
+    "question": "What was the primary goal of the League of Nations?",
+    "A": "Maintain Peace",
+    "B": "Promote Trade",
+    "C": "Colonization",
+    "D": "Military Expansion",
+    "answer": "A"
+  },
+  {
+    "question": "Which event marked the beginning of the Industrial Revolution?",
+    "A": "Invention of the Steam Engine",
+    "B": "Invention of the Cotton Gin",
+    "C": "Construction of the First Factory",
+    "D": "Establishment of Railroads",
+    "answer": "A"
+  },
+  {
+    "question": "Which ancient civilization developed cuneiform writing?",
+    "A": "Ancient Egypt",
+    "B": "Indus Valley",
+    "C": "Sumerians",
+    "D": "Phoenicians",
+    "answer": "C"
+  },
+  {
+    "question": "Who was the author of 'The Communist Manifesto'?",
+    "A": "Friedrich Engels",
+    "B": "Karl Marx",
+    "C": "Lenin",
+    "D": "Trotsky",
+    "answer": "B"
+  },
+  {
+    "question": "What was the primary goal of the suffragette movement?",
+    "A": "Women's Right to Vote",
+    "B": "Women's Education",
+    "C": "Women's Employment",
+    "D": "Women's Property Rights",
+    "answer": "A"
+  },
+  {
+    "question": "Who was the first Emperor of the Roman Empire?",
+    "A": "Julius Caesar",
+    "B": "Augustus",
+    "C": "Nero",
+    "D": "Tiberius",
+    "answer": "B"
+  },
+  {
+    "question": "Which treaty ended World War I?",
+    "A": "Treaty of Versailles",
+    "B": "Treaty of Paris",
+    "C": "Treaty of Trianon",
+    "D": "Treaty of Brest-Litovsk",
+    "answer": "A"
+  },
+  {
+    "question": "Who is known as the Father of Modern Physics?",
+    "A": "Isaac Newton",
+    "B": "Albert Einstein",
+    "C": "Galileo Galilei",
+    "D": "Niels Bohr",
+    "answer": "B"
+  },
+  {
+    "question": "What was the name of the first satellite launched into space?",
+    "A": "Vostok 1",
+    "B": "Sputnik 1",
+    "C": "Apollo 11",
+    "D": "Explorer 1",
+    "answer": "B"
+  },
+  {
+    "question": "Which U.S. President delivered the Gettysburg Address?",
+    "A": "Abraham Lincoln",
+    "B": "George Washington",
+    "C": "Thomas Jefferson",
+    "D": "Ulysses S. Grant",
+    "answer": "A"
+  },
+  {
+    "question": "Who was the famous nurse during the Crimean War?",
+    "A": "Clara Barton",
+    "B": "Florence Nightingale",
+    "C": "Mary Seacole",
+    "D": "Susan B. Anthony",
+    "answer": "B"
+  },
+  {
+    "question": "Which city was the center of the Byzantine Empire?",
+    "A": "Athens",
+    "B": "Rome",
+    "C": "Constantinople",
+    "D": "Alexandria",
+    "answer": "C"
+  },
+  {
+    "question": "What was the primary aim of the Spanish Inquisition?",
+    "A": "Convert Muslims",
+    "B": "Convert Jews",
+    "C": "Convert Protestants",
+    "D": "All of the Above",
+    "answer": "D"
+  },
+  {
+    "question": "Which philosopher is known for the phrase 'I think, therefore I am'?",
+    "A": "Descartes",
+    "B": "Kant",
+    "C": "Hegel",
+    "D": "Sartre",
+    "answer": "A"
+  },
+  {
+    "question": "What was the purpose of the Opium Wars?",
+    "A": "Trade Control",
+    "B": "Territorial Expansion",
+    "C": "Religious Conversion",
+    "D": "Colonization",
+    "answer": "A"
+  },
+  {
+    "question": "Who was the leader of the Haitian Revolution?",
+    "A": "Toussaint Louverture",
+    "B": "Simón Bolívar",
+    "C": "José de San Martín",
+    "D": "Emiliano Zapata",
+    "answer": "A"
+  },
+  {
+    "question": "Which ancient civilization is known for democracy?",
+    "A": "Ancient Rome",
+    "B": "Ancient Greece",
+    "C": "Ancient Egypt",
+    "D": "Ancient China",
+    "answer": "B"
   }
   
 ]
