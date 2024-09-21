@@ -3719,6 +3719,918 @@
     "C": "50",
     "D": "60",
     "answer": "B"
+  },
+  {
+    "question": "वह ____ है।",
+    "A": "गाय",
+    "B": "गायें",
+    "C": "गायेंगी",
+    "D": "गायेंगा",
+    "answer": "A"
+  },
+  {
+    "question": "किस शब्द का अर्थ 'सूरज' है?",
+    "A": "चाँद",
+    "B": "तारा",
+    "C": "सूर्य",
+    "D": "चाँदनी",
+    "answer": "C"
+  },
+  {
+    "question": "सर्वनाम का उदाहरण कौन सा है?",
+    "A": "राज",
+    "B": "वह",
+    "C": "पेड़",
+    "D": "बस्ता",
+    "answer": "B"
+  },
+  {
+    "question": "किस वाक्य में विशेषण है?",
+    "A": "राम दौड़ा।",
+    "B": "सुंदर फूल खिला।",
+    "C": "मैं स्कूल गया।",
+    "D": "तुम पढ़ाई कर रहे हो।",
+    "answer": "B"
+  },
+  {
+    "question": "किस वाक्य में कर्म है?",
+    "A": "मैं खाना खा रहा हूँ।",
+    "B": "वह स्कूल जा रहा है।",
+    "C": "सूरज चमक रहा है।",
+    "D": "पानी गिर रहा है।",
+    "answer": "A"
+  },
+  {
+    "question": "वचन का सही प्रयोग कौन सा है?",
+    "A": "लड़के",
+    "B": "लड़का",
+    "C": "लड़काें",
+    "D": "लड़की",
+    "answer": "A"
+  },
+  {
+    "question": "गुणवाचक विशेषण क्या है?",
+    "A": "सुंदर",
+    "B": "वह",
+    "C": "जाना",
+    "D": "तुम",
+    "answer": "A"
+  },
+  {
+    "question": "किस वाक्य में संधि है?",
+    "A": "राम और श्याम।",
+    "B": "गंगा जल।",
+    "C": "सूर्यास्त।",
+    "D": "बच्चा खेलता है।",
+    "answer": "C"
+  },
+  {
+    "question": "किस शब्द का अर्थ 'खुश' है?",
+    "A": "दुखी",
+    "B": "खुश",
+    "C": "उदास",
+    "D": "सुखी",
+    "answer": "B"
+  },
+  {
+    "question": "वह ___ है।",
+    "A": "चाँद",
+    "B": "चाँदनी",
+    "C": "चाँदनी है",
+    "D": "चाँदनी का",
+    "answer": "A"
+  },
+  {
+    "question": "वाक्य में 'सूर्य' का प्रयोग करें।",
+    "A": "सूर्य तेज चमकता है।",
+    "B": "चाँद सूरज है।",
+    "C": "सूर्य रात में आता है।",
+    "D": "सूर्य पानी है।",
+    "answer": "A"
+  },
+  {
+    "question": "किस वाक्य में उपसर्ग है?",
+    "A": "पानी गिर रहा है।",
+    "B": "मैं खेला।",
+    "C": "अच्छा करना।",
+    "D": "सूरज निकला।",
+    "answer": "C"
+  },
+  {
+    "question": "किस वाक्य में कारक है?",
+    "A": "राज घर गया।",
+    "B": "सूरज निकल रहा है।",
+    "C": "मैं दौड़ा।",
+    "D": "वह खेलता है।",
+    "answer": "A"
+  },
+  {
+    "question": "किस शब्द में संधि का प्रयोग है?",
+    "A": "गृह",
+    "B": "दिवालिया",
+    "C": "गंगा जल",
+    "D": "सूर्य ग्रहण",
+    "answer": "D"
+  },
+  {
+    "question": "वचन के प्रकार कौन से हैं?",
+    "A": "एकवचन, द्विवचन, बहुवचन",
+    "B": "एकवचन, त्रिवचन, बहुवचन",
+    "C": "एकवचन, तिर्यकवचन",
+    "D": "एकवचन, द्विवचन",
+    "answer": "A"
+  },
+  {
+    "question": "किस वाक्य में क्रिया है?",
+    "A": "बच्चा खेल रहा है।",
+    "B": "वह अच्छा है।",
+    "C": "सूर्य चमकता है।",
+    "D": "वह आया।",
+    "answer": "A"
+  },
+  {
+    "question": "किस शब्द का पर्यायवाची है 'खुश'?",
+    "A": "दुखी",
+    "B": "उदास",
+    "C": "आनंदित",
+    "D": "सुखी",
+    "answer": "C"
+  },
+  {
+    "question": "किस वाक्य में क्रियाविशेषण है?",
+    "A": "वह दौड़ता है।",
+    "B": "वह जल्दी दौड़ता है।",
+    "C": "वह आता है।",
+    "D": "वह सुंदर है।",
+    "answer": "B"
+  },
+  {
+    "question": "किस वाक्य में प्रतिवाचक संज्ञा है?",
+    "A": "राम आता है।",
+    "B": "वह गाड़ी है।",
+    "C": "पिता घर पर हैं।",
+    "D": "शिक्षक पढ़ाता है।",
+    "answer": "C"
+  },
+  {
+    "question": "किस शब्द में उपसर्ग है?",
+    "A": "अच्छा",
+    "B": "जाना",
+    "C": "खुश",
+    "D": "शिक्षा",
+    "answer": "A"
+  },
+  {
+    "question": "किस वाक्य में संज्ञा है?",
+    "A": "वह खेलता है।",
+    "B": "पिता घर पर हैं।",
+    "C": "वह जल्दी आया।",
+    "D": "सूर्य निकल रहा है।",
+    "answer": "B"
+  },
+  {
+    "question": "वचन का सही प्रयोग करें: 'लड़का ____ है।'",
+    "A": "खेलता",
+    "B": "खेलती",
+    "C": "खेलें",
+    "D": "खेल",
+    "answer": "A"
+  },
+  {
+    "question": "किस वाक्य में विशेषण है?",
+    "A": "वह गाड़ी चलाता है।",
+    "B": "यह पुस्तक अच्छी है।",
+    "C": "राम तेज है।",
+    "D": "सूरज चमक रहा है।",
+    "answer": "B"
+  },
+  {
+    "question": "किस वाक्य में भूतकाल है?",
+    "A": "मैं खेल रहा हूँ।",
+    "B": "मैं खेला।",
+    "C": "मैं खेलूँगा।",
+    "D": "मैं खेलता हूँ।",
+    "answer": "B"
+  },
+  {
+    "question": "किस वाक्य में लिंग भेद है?",
+    "A": "वह खिलाड़ी है।",
+    "B": "वह खिलाड़ी हैं।",
+    "C": "वह खिलाड़ी थे।",
+    "D": "वह खिलाड़ी थी।",
+    "answer": "D"
+  },
+  {
+    "question": "किस वाक्य में समय बताने वाला शब्द है?",
+    "A": "कल मैं खेलूँगा।",
+    "B": "वह खेलता है।",
+    "C": "वह खेल चुका है।",
+    "D": "वह खेल रही है।",
+    "answer": "A"
+  },
+  {
+    "question": "किस शब्द का पर्यायवाची है 'जल'?",
+    "A": "नदी",
+    "B": "पानी",
+    "C": "गंगा",
+    "D": "सागर",
+    "answer": "B"
+  },
+  {
+    "question": "किस वाक्य में उपसर्ग का प्रयोग है?",
+    "A": "उठना",
+    "B": "लड़ना",
+    "C": "खेलना",
+    "D": "आना",
+    "answer": "A"
+  },
+  {
+    "question": "किस वाक्य में विशेषण का प्रयोग है?",
+    "A": "वह सुन्दर है।",
+    "B": "वह खेलता है।",
+    "C": "सूरज निकल रहा है।",
+    "D": "पिता घर पर हैं।",
+    "answer": "A"
+  },
+  {
+    "question": "किस वाक्य में संधि का प्रयोग है?",
+    "A": "गृह मंत्री",
+    "B": "सूर्य",
+    "C": "चाँद",
+    "D": "वह स्कूल है।",
+    "answer": "A"
+  },
+  {
+    "question": "किस वाक्य में कर्म है?",
+    "A": "मैं लिखता हूँ।",
+    "B": "वह आया।",
+    "C": "वह खेला।",
+    "D": "सूरज निकलता है।",
+    "answer": "A"
+  },
+  {
+    "question": "किस शब्द का अर्थ 'बड़ा' है?",
+    "A": "छोटा",
+    "B": "मोटा",
+    "C": "वह",
+    "D": "बड़ा",
+    "answer": "D"
+  },
+  {
+    "question": "किस वाक्य में अव्यय है?",
+    "A": "वह गाड़ी चला रहा है।",
+    "B": "वह घर पर है।",
+    "C": "वह जल्दी आया।",
+    "D": "वह खेल रहा है।",
+    "answer": "B"
+  },
+  {
+    "question": "किस वाक्य में भूतकाल का प्रयोग है?",
+    "A": "वह खेल रहा है।",
+    "B": "वह खेला।",
+    "C": "वह खेलता है।",
+    "D": "वह खेला।",
+    "answer": "B"
+  },
+  {
+    "question": "किस शब्द का पर्यायवाची है 'सूर्य'?",
+    "A": "चाँद",
+    "B": "तारा",
+    "C": "आसमान",
+    "D": "सूर्य",
+    "answer": "D"
+  },
+  {
+    "question": "किस वाक्य में विशेषण है?",
+    "A": "वह सुंदर है।",
+    "B": "वह खेलता है।",
+    "C": "सूरज चमकता है।",
+    "D": "वह आता है।",
+    "answer": "A"
+  },
+  {
+    "question": "किस वाक्य में अपादान है?",
+    "A": "राज गाड़ी चला रहा है।",
+    "B": "सूरज निकल रहा है।",
+    "C": "वह खेला।",
+    "D": "पिता घर पर हैं।",
+    "answer": "A"
+  },
+  {
+    "question": "किस वाक्य में कर्म है?",
+    "A": "वह खेला।",
+    "B": "वह जल्दी आया।",
+    "C": "वह दौड़ा।",
+    "D": "सूरज निकलता है।",
+    "answer": "C"
+  },
+  {
+    "question": "किस वाक्य में लिंग भेद है?",
+    "A": "लड़की आई।",
+    "B": "लड़का आया।",
+    "C": "बच्चा आया।",
+    "D": "लड़के आए।",
+    "answer": "A"
+  },
+  {
+    "question": "किस वाक्य में संज्ञा है?",
+    "A": "वह पढ़ता है।",
+    "B": "मैं खेलता हूँ।",
+    "C": "गाड़ी तेज चल रही है।",
+    "D": "सूरज निकल रहा है।",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is the odd one out?",
+    "A": "Cat",
+    "B": "Dog",
+    "C": "Elephant",
+    "D": "Car",
+    "answer": "D"
+  },
+  {
+    "question": "Find the missing number: 2, 4, 6, 8, __?",
+    "A": "9",
+    "B": "10",
+    "C": "11",
+    "D": "12",
+    "answer": "B"
+  },
+  {
+    "question": "If A is coded as 1, B as 2, and so on, what is the code for Z?",
+    "A": "25",
+    "B": "26",
+    "C": "24",
+    "D": "23",
+    "answer": "B"
+  },
+  {
+    "question": "What is the next number in the series: 5, 10, 15, 20, __?",
+    "A": "25",
+    "B": "30",
+    "C": "35",
+    "D": "20",
+    "answer": "A"
+  },
+  {
+    "question": "If all roses are flowers and some flowers fade quickly, can we conclude that some roses fade quickly?",
+    "A": "Yes",
+    "B": "No",
+    "C": "Cannot be determined",
+    "D": "All roses fade quickly",
+    "answer": "C"
+  },
+  {
+    "question": "Which number should come next in the series: 1, 1, 2, 3, 5, 8, __?",
+    "A": "10",
+    "B": "11",
+    "C": "12",
+    "D": "13",
+    "answer": "D"
+  },
+  {
+    "question": "Find the odd one out: 2, 4, 6, 8, 9, 10?",
+    "A": "2",
+    "B": "4",
+    "C": "9",
+    "D": "10",
+    "answer": "C"
+  },
+  {
+    "question": "Which shape is the odd one out?",
+    "A": "Circle",
+    "B": "Square",
+    "C": "Triangle",
+    "D": "Cube",
+    "answer": "D"
+  },
+  {
+    "question": "If the day after tomorrow is Monday, what day is today?",
+    "A": "Saturday",
+    "B": "Sunday",
+    "C": "Friday",
+    "D": "Thursday",
+    "answer": "B"
+  },
+  {
+    "question": "Complete the analogy: Finger is to Hand as Toe is to ____.",
+    "A": "Foot",
+    "B": "Leg",
+    "C": "Body",
+    "D": "Knee",
+    "answer": "A"
+  },
+  {
+    "question": "If all cats are mammals and all mammals are animals, can we conclude that all cats are animals?",
+    "A": "Yes",
+    "B": "No",
+    "C": "Cannot be determined",
+    "D": "Only some cats",
+    "answer": "A"
+  },
+  {
+    "question": "What is the next number in the series: 3, 6, 9, 12, __?",
+    "A": "14",
+    "B": "15",
+    "C": "16",
+    "D": "18",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following words is the opposite of 'happy'?",
+    "A": "Joyful",
+    "B": "Sad",
+    "C": "Excited",
+    "D": "Angry",
+    "answer": "B"
+  },
+  {
+    "question": "If it takes 5 men 10 days to complete a project, how long will it take 10 men?",
+    "A": "5 days",
+    "B": "10 days",
+    "C": "15 days",
+    "D": "20 days",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is the next letter in the series: A, C, E, G, __?",
+    "A": "H",
+    "B": "I",
+    "C": "J",
+    "D": "K",
+    "answer": "A"
+  },
+  {
+    "question": "What is the missing number: 8, 16, 24, __, 40?",
+    "A": "30",
+    "B": "32",
+    "C": "36",
+    "D": "28",
+    "answer": "C"
+  },
+  {
+    "question": "If a train leaves at 3 PM and arrives at 5 PM, how long is the journey?",
+    "A": "1 hour",
+    "B": "2 hours",
+    "C": "3 hours",
+    "D": "4 hours",
+    "answer": "B"
+  },
+  {
+    "question": "Find the next item in the sequence: Red, Blue, Green, Red, Blue, __?",
+    "A": "Green",
+    "B": "Red",
+    "C": "Blue",
+    "D": "Yellow",
+    "answer": "A"
+  },
+  {
+    "question": "If it is raining, then the ground is wet. It is not raining. What can we conclude?",
+    "A": "The ground is wet",
+    "B": "The ground is dry",
+    "C": "Cannot be determined",
+    "D": "It was raining",
+    "answer": "B"
+  },
+  {
+    "question": "Which number comes next in the series: 1, 4, 9, 16, __?",
+    "A": "20",
+    "B": "25",
+    "C": "30",
+    "D": "35",
+    "answer": "B"
+  },
+  {
+    "question": "Which word does not belong to the group?",
+    "A": "Apple",
+    "B": "Banana",
+    "C": "Carrot",
+    "D": "Grape",
+    "answer": "C"
+  },
+  {
+    "question": "Complete the series: 5, 10, 20, 40, __?",
+    "A": "60",
+    "B": "70",
+    "C": "80",
+    "D": "100",
+    "answer": "C"
+  },
+  {
+    "question": "If you rearrange the letters 'CIFAIPC', you would have the name of a:",
+    "A": "City",
+    "B": "Animal",
+    "C": "Ocean",
+    "D": "Country",
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is a synonym for 'fast'?",
+    "A": "Quick",
+    "B": "Slow",
+    "C": "Rapid",
+    "D": "Both A and C",
+    "answer": "D"
+  },
+  {
+    "question": "What is the missing number: 1, 3, 6, 10, __?",
+    "A": "15",
+    "B": "16",
+    "C": "17",
+    "D": "18",
+    "answer": "A"
+  },
+  {
+    "question": "If all squares are rectangles and all rectangles are quadrilaterals, then:",
+    "A": "All squares are quadrilaterals",
+    "B": "All quadrilaterals are squares",
+    "C": "Some rectangles are squares",
+    "D": "Some quadrilaterals are rectangles",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is the next in the sequence: 2, 4, 8, 16, __?",
+    "A": "20",
+    "B": "24",
+    "C": "32",
+    "D": "36",
+    "answer": "C"
+  },
+  {
+    "question": "What number should come next: 1, 1, 2, 3, 5, 8, __?",
+    "A": "12",
+    "B": "13",
+    "C": "14",
+    "D": "15",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following does not belong in this group: 3, 9, 27, 30, 81?",
+    "A": "9",
+    "B": "27",
+    "C": "30",
+    "D": "81",
+    "answer": "C"
+  },
+  {
+    "question": "Complete the analogy: Finger is to Hand as Toe is to ____.",
+    "A": "Foot",
+    "B": "Leg",
+    "C": "Body",
+    "D": "Knee",
+    "answer": "A"
+  },
+  {
+    "question": "What is the odd one out?",
+    "A": "Circle",
+    "B": "Square",
+    "C": "Triangle",
+    "D": "Line",
+    "answer": "D"
+  },
+  {
+    "question": "Which one of these does not belong to the others?",
+    "A": "Snake",
+    "B": "Dog",
+    "C": "Cat",
+    "D": "Lizard",
+    "answer": "B"
+  },
+  {
+    "question": "Find the next number in the series: 10, 20, 30, __?",
+    "A": "35",
+    "B": "40",
+    "C": "45",
+    "D": "50",
+    "answer": "B"
+  },
+  {
+    "question": "Which one of the following is a fruit?",
+    "A": "Carrot",
+    "B": "Potato",
+    "C": "Tomato",
+    "D": "Lettuce",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following words is the opposite of 'hot'?",
+    "A": "Cold",
+    "B": "Warm",
+    "C": "Cool",
+    "D": "Feverish",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is not a prime number?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "answer": "C"
+  },
+  {
+    "question": "If today is Monday, what day will it be in 10 days?",
+    "A": "Wednesday",
+    "B": "Friday",
+    "C": "Saturday",
+    "D": "Monday",
+    "answer": "B"
+  },
+  {
+    "question": "Complete the series: 1, 2, 4, 7, 11, __?",
+    "A": "14",
+    "B": "15",
+    "C": "16",
+    "D": "17",
+    "answer": "D"
+  },
+  {
+    "question": "What is the missing letter: A, B, D, E, __?",
+    "A": "C",
+    "B": "F",
+    "C": "G",
+    "D": "H",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a type of triangle?",
+    "A": "Rectangle",
+    "B": "Square",
+    "C": "Scalene",
+    "D": "Circle",
+    "answer": "C"
+  },
+  {
+    "question": "Which word does not belong to the group?",
+    "A": "Bird",
+    "B": "Eagle",
+    "C": "Fish",
+    "D": "Sparrow",
+    "answer": "C"
+  },
+  {
+    "question": "What is the next number: 1, 2, 4, 8, 16, __?",
+    "A": "20",
+    "B": "24",
+    "C": "32",
+    "D": "36",
+    "answer": "C"
+  },
+  {
+    "question": "If it is sunny, I will go for a walk. It is not sunny. What can we conclude?",
+    "A": "I will not go for a walk",
+    "B": "I will go for a walk",
+    "C": "It might rain",
+    "D": "The weather is nice",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is the odd one out?",
+    "A": "Cat",
+    "B": "Dog",
+    "C": "Elephant",
+    "D": "Car",
+    "answer": "D"
+  },
+  {
+    "question": "Find the missing number: 2, 4, 6, 8, __?",
+    "A": "9",
+    "B": "10",
+    "C": "11",
+    "D": "12",
+    "answer": "B"
+  },
+  {
+    "question": "If A is coded as 1, B as 2, and so on, what is the code for Z?",
+    "A": "25",
+    "B": "26",
+    "C": "24",
+    "D": "23",
+    "answer": "B"
+  },
+  {
+    "question": "Find the next letter in the sequence: A, D, G, J, __?",
+    "A": "K",
+    "B": "M",
+    "C": "L",
+    "D": "N",
+    "answer": "B"
+  },
+  {
+    "question": "If 'PEN' is coded as 'QFO', what is the code for 'DOG'?",
+    "A": "EPH",
+    "B": "DPG",
+    "C": "EPI",
+    "D": "FPI",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is the odd one out?",
+    "A": "Circle",
+    "B": "Square",
+    "C": "Triangle",
+    "D": "Rectangle",
+    "answer": "A"
+  },
+  {
+    "question": "What comes next in the series: 1, 4, 9, 16, __?",
+    "A": "25",
+    "B": "20",
+    "C": "23",
+    "D": "24",
+    "answer": "A"
+  },
+  {
+    "question": "Choose the word that does not belong to the group.",
+    "A": "Lion",
+    "B": "Tiger",
+    "C": "Cat",
+    "D": "Bird",
+    "answer": "D"
+  },
+  {
+    "question": "Which number is missing: 12, 24, 48, __?",
+    "A": "72",
+    "B": "96",
+    "C": "84",
+    "D": "80",
+    "answer": "B"
+  },
+  {
+    "question": "If BIRD is coded as 294, what is the code for CAT?",
+    "A": "313",
+    "B": "320",
+    "C": "318",
+    "D": "323",
+    "answer": "C"
+  },
+  {
+    "question": "Find the next number: 5, 11, 23, 47, __?",
+    "A": "83",
+    "B": "95",
+    "C": "79",
+    "D": "89",
+    "answer": "A"
+  },
+  {
+    "question": "In a row of students, if John is 15th from the left and 20th from the right, how many students are there?",
+    "A": "34",
+    "B": "36",
+    "C": "33",
+    "D": "35",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a prime number?",
+    "A": "21",
+    "B": "31",
+    "C": "33",
+    "D": "39",
+    "answer": "B"
+  },
+  {
+    "question": "Find the missing term: 3, 9, 27, __?",
+    "A": "36",
+    "B": "54",
+    "C": "81",
+    "D": "72",
+    "answer": "C"
+  },
+  {
+    "question": "Which word will appear third in a dictionary?",
+    "A": "Cab",
+    "B": "Cat",
+    "C": "Cap",
+    "D": "Can",
+    "answer": "D"
+  },
+  {
+    "question": "If 'BOOK' is coded as '12', what will be the code for 'LAMP'?",
+    "A": "15",
+    "B": "10",
+    "C": "20",
+    "D": "18",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is the odd one out?",
+    "A": "Bus",
+    "B": "Car",
+    "C": "Bike",
+    "D": "Train",
+    "answer": "C"
+  },
+  {
+    "question": "If 2 = 5, 3 = 10, 4 = 17, then 5 = ?",
+    "A": "25",
+    "B": "27",
+    "C": "23",
+    "D": "21",
+    "answer": "C"
+  },
+  {
+    "question": "Which word does not belong to the group?",
+    "A": "Chair",
+    "B": "Table",
+    "C": "Desk",
+    "D": "Fan",
+    "answer": "D"
+  },
+  {
+    "question": "If A = 1, Z = 26, what is the value of the word 'CAB'?",
+    "A": "6",
+    "B": "7",
+    "C": "9",
+    "D": "12",
+    "answer": "B"
+  },
+  {
+    "question": "Find the odd one out: Apple, Banana, Grape, Carrot",
+    "A": "Apple",
+    "B": "Banana",
+    "C": "Grape",
+    "D": "Carrot",
+    "answer": "D"
+  },
+  {
+    "question": "Complete the series: 1, 2, 4, 7, 11, __?",
+    "A": "16",
+    "B": "17",
+    "C": "18",
+    "D": "15",
+    "answer": "A"
+  },
+  {
+    "question": "What comes next: 15, 30, 45, 60, __?",
+    "A": "90",
+    "B": "100",
+    "C": "75",
+    "D": "80",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is the largest?",
+    "A": "500",
+    "B": "1500",
+    "C": "2000",
+    "D": "1000",
+    "answer": "C"
+  },
+  {
+    "question": "Which number does not belong to the group: 11, 13, 17, 22?",
+    "A": "11",
+    "B": "13",
+    "C": "17",
+    "D": "22",
+    "answer": "D"
+  },
+  {
+    "question": "Find the next letter: Z, X, V, T, __?",
+    "A": "S",
+    "B": "R",
+    "C": "Q",
+    "D": "P",
+    "answer": "B"
+  },
+  {
+    "question": "What will be the next number: 20, 30, 50, 80, __?",
+    "A": "130",
+    "B": "90",
+    "C": "110",
+    "D": "100",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a perfect square?",
+    "A": "40",
+    "B": "49",
+    "C": "54",
+    "D": "48",
+    "answer": "B"
+  },
+  {
+    "question": "In a code, APPLE is written as BQQMF. How is BANANA written?",
+    "A": "CBPCOB",
+    "B": "CBNBMB",
+    "C": "CBOPAB",
+    "D": "CBPQOB",
+    "answer": "A"
+  },
+  {
+    "question": "Choose the word that does not belong to the group.",
+    "A": "Pencil",
+    "B": "Pen",
+    "C": "Book",
+    "D": "Eraser",
+    "answer": "C"
+  },
+  {
+    "question": "If CAT is coded as XZG, how is DOG coded?",
+    "A": "XPV",
+    "B": "WPF",
+    "C": "XZC",
+    "D": "XFI",
+    "answer": "A"
   }
   
 ]
