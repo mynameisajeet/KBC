@@ -799,6 +799,166 @@
     "C": "Jawaharlal Nehru",
     "D": "Subhas Chandra Bose",
     "answer": "C"
+  },
+  {
+    "question": "Which is the longest river in India?",
+    "A": "Ganga",
+    "B": "Yamuna",
+    "C": "Godavari",
+    "D": "Brahmaputra",
+    "answer": "A"
+  },
+  {
+    "question": "In which state is the Thar Desert located?",
+    "A": "Gujarat",
+    "B": "Madhya Pradesh",
+    "C": "Rajasthan",
+    "D": "Punjab",
+    "answer": "C"
+  },
+  {
+    "question": "Which mountain range forms the northern border of India?",
+    "A": "Vindhya",
+    "B": "Aravalli",
+    "C": "Himalayas",
+    "D": "Western Ghats",
+    "answer": "C"
+  },
+  {
+    "question": "Which is the largest state in India by area?",
+    "A": "Uttar Pradesh",
+    "B": "Maharashtra",
+    "C": "Rajasthan",
+    "D": "Madhya Pradesh",
+    "answer": "C"
+  },
+  {
+    "question": "Which is the southernmost point of India?",
+    "A": "Kanyakumari",
+    "B": "Rameswaram",
+    "C": "Indira Point",
+    "D": "Nicobar Islands",
+    "answer": "C"
+  },
+  {
+    "question": "Which river is known as the 'Sorrow of Bihar'?",
+    "A": "Kosi",
+    "B": "Ganga",
+    "C": "Mahanadi",
+    "D": "Son",
+    "answer": "A"
+  },
+  {
+    "question": "Which plateau is known as the 'Deccan Plateau'?",
+    "A": "Malwa Plateau",
+    "B": "Chota Nagpur Plateau",
+    "C": "Deccan Plateau",
+    "D": "Meghalaya Plateau",
+    "answer": "C"
+  },
+  {
+    "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+    "A": "Gujarat",
+    "B": "Punjab",
+    "C": "Kerala",
+    "D": "Odisha",
+    "answer": "B"
+  },
+  {
+    "question": "Which ocean lies to the south of India?",
+    "A": "Atlantic Ocean",
+    "B": "Pacific Ocean",
+    "C": "Indian Ocean",
+    "D": "Arctic Ocean",
+    "answer": "C"
+  },
+  {
+    "question": "Which is the smallest state in India by area?",
+    "A": "Sikkim",
+    "B": "Goa",
+    "C": "Tripura",
+    "D": "Manipur",
+    "answer": "B"
+  },
+  {
+    "question": "The Sundarbans, the largest mangrove forest in the world, is located in which state?",
+    "A": "Odisha",
+    "B": "West Bengal",
+    "C": "Andhra Pradesh",
+    "D": "Tamil Nadu",
+    "answer": "B"
+  },
+  {
+    "question": "Which river is also known as the 'Dakshin Ganga'?",
+    "A": "Krishna",
+    "B": "Cauvery",
+    "C": "Godavari",
+    "D": "Tungabhadra",
+    "answer": "C"
+  },
+  {
+    "question": "What is the highest peak in India?",
+    "A": "Mount Everest",
+    "B": "K2",
+    "C": "Kangchenjunga",
+    "D": "Nanda Devi",
+    "answer": "C"
+  },
+  {
+    "question": "The Konkan coast lies in which Indian state?",
+    "A": "Kerala",
+    "B": "Tamil Nadu",
+    "C": "Maharashtra",
+    "D": "West Bengal",
+    "answer": "C"
+  },
+  {
+    "question": "Which state in India is the largest producer of tea?",
+    "A": "West Bengal",
+    "B": "Tamil Nadu",
+    "C": "Assam",
+    "D": "Kerala",
+    "answer": "C"
+  },
+  {
+    "question": "Which river forms the natural boundary between India and Pakistan?",
+    "A": "Ganga",
+    "B": "Sutlej",
+    "C": "Indus",
+    "D": "Ravi",
+    "answer": "C"
+  },
+  {
+    "question": "In which state is the Loktak Lake, known for its floating islands, located?",
+    "A": "Mizoram",
+    "B": "Manipur",
+    "C": "Tripura",
+    "D": "Nagaland",
+    "answer": "B"
+  },
+  {
+    "question": "Which state is known as the 'Spice Garden of India'?",
+    "A": "Kerala",
+    "B": "Tamil Nadu",
+    "C": "Karnataka",
+    "D": "Andhra Pradesh",
+    "answer": "A"
+  },
+  {
+    "question": "The Tropic of Cancer passes through how many Indian states?",
+    "A": "5",
+    "B": "6",
+    "C": "8",
+    "D": "7",
+    "answer": "C"
+  },
+  {
+    "question": "Which city is known as the 'Silicon Valley of India'?",
+    "A": "Mumbai",
+    "B": "Chennai",
+    "C": "Hyderabad",
+    "D": "Bengaluru",
+    "answer": "D"
   }
   
 ]
