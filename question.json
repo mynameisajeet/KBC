@@ -2223,6 +2223,1502 @@
     "C": "Great Britain",
     "D": "Russia",
     "answer": "A"
+  },
+  {
+    "question": "What is the capital of France?",
+    "A": "Berlin",
+    "B": "Paris",
+    "C": "London",
+    "D": "Rome",
+    "answer": "B"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "A": "Earth",
+    "B": "Mars",
+    "C": "Jupiter",
+    "D": "Saturn",
+    "answer": "B"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "A": "Leonardo da Vinci",
+    "B": "Michelangelo",
+    "C": "Raphael",
+    "D": "Caravaggio",
+    "answer": "A"
+  },
+  {
+    "question": "What is the largest mammal on Earth?",
+    "A": "Blue whale",
+    "B": "Fin whale",
+    "C": "Humpback whale",
+    "D": "Sperm whale",
+    "answer": "A"
+  },
+  {
+    "question": "Which element is the lightest in the periodic table?",
+    "A": "Hydrogen",
+    "B": "Helium",
+    "C": "Oxygen",
+    "D": "Nitrogen",
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote Romeo and Juliet?",
+    "A": "William Shakespeare",
+    "B": "Jane Austen",
+    "C": "Charles Dickens",
+    "D": "J.K. Rowling",
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "A": "Ag",
+    "B": "Au",
+    "C": "Hg",
+    "D": "Pb",
+    "answer": "B"
+  },
+  {
+    "question": "Which music group's original members were John, Paul, George, and Pete?",
+    "A": "The Rolling Stones",
+    "B": "The Beatles",
+    "C": "The Who",
+    "D": "The Beach Boys",
+    "answer": "B"
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "A": "Vatican City",
+    "B": "Monaco",
+    "C": "Nauru",
+    "D": "Tuvalu",
+    "answer": "A"
+  },
+  {
+    "question": "Who was the first president of the United States?",
+    "A": "George Washington",
+    "B": "Thomas Jefferson",
+    "C": "Abraham Lincoln",
+    "D": "Franklin D. Roosevelt",
+    "answer": "A"
+  },
+  {
+    "question": "What is the highest mountain peak?",
+    "A": "Mount Everest",
+    "B": "K2",
+    "C": "Kilimanjaro",
+    "D": "Mount Elbrus",
+    "answer": "A"
+  },
+  {
+    "question": "Which river is the longest?",
+    "A": "Nile",
+    "B": "Amazon",
+    "C": "Yangtze",
+    "D": "Mississippi",
+    "answer": "A"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "A": "90",
+    "B": "95",
+    "C": "100",
+    "D": "105",
+    "answer": "C"
+  },
+  {
+    "question": "Who wrote the theory of evolution?",
+    "A": "Charles Darwin",
+    "B": "Galileo Galilei",
+    "C": "Isaac Newton",
+    "D": "Albert Einstein",
+    "answer": "A"
+  },
+  {
+    "question": "What is the largest living species of lizard?",
+    "A": "Komodo dragon",
+    "B": "Saltwater crocodile",
+    "C": "Black mamba",
+    "D": "African elephant",
+    "answer": "A"
+  },
+  {
+    "question": "What is the chemical symbol for silver?",
+    "A": "Ag",
+    "B": "Au",
+    "C": "Hg",
+    "D": "Pb",
+    "answer": "A"
+  },
+  {
+    "question": "Who painted Starry Night?",
+    "A": "Vincent van Gogh",
+    "B": "Claude Monet",
+    "C": "Pablo Picasso",
+    "D": "Johannes Vermeer",
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "A": "F. Scott Fitzgerald",
+    "B": "Harper Lee",
+    "C": "Jane Austen",
+    "D": "J.K. Rowling",
+    "answer": "B"
+  },
+  {
+    "question": "Which author wrote 'Pride and Prejudice'?",
+    "A": "Charles Dickens",
+    "B": "Jane Austen",
+    "C": "Emily Brontë",
+    "D": "Mary Shelley",
+    "answer": "B"
+  },
+  {
+    "question": "Who is the author of 'The Lord of the Rings'?",
+    "A": "J.R.R. Tolkien",
+    "B": "C.S. Lewis",
+    "C": "George R.R. Martin",
+    "D": "J.K. Rowling",
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "A": "F. Scott Fitzgerald",
+    "B": "Ernest Hemingway",
+    "C": "John Steinbeck",
+    "D": "Mark Twain",
+    "answer": "A"
+  },
+  {
+    "question": "Who is the author of 'The Hunger Games'?",
+    "A": "Suzanne Collins",
+    "B": "Veronica Roth",
+    "C": "Stephenie Meyer",
+    "D": "J.K. Rowling",
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote 'The Catcher in the Rye'?",
+    "A": "J.D. Salinger",
+    "B": "F. Scott Fitzgerald",
+    "C": "Ernest Hemingway",
+    "D": "John Steinbeck",
+    "answer": "A"
+  },
+  {
+    "question": "Who is the author of 'The Alchemist'?",
+    "A": "Paulo Coelho",
+    "B": "Gabriel García Márquez",
+    "C": "Mario Vargas Llosa",
+    "D": "Isabel Allende",
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote 'The Picture of Dorian Gray'?",
+    "A": "Oscar Wilde",
+    "B": "Robert Louis Stevenson",
+    "C": " Bram Stoker",
+    "D": "Mary Shelley",
+    "answer": "A"
+  },
+  {
+    "question": "Who is the author of 'The Handmaid's Tale'?",
+    "A": "Margaret Atwood",
+    "B": "George Orwell",
+    "C": "Aldous Huxley",
+    "D": "Ray Bradbury",
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote 'The Count of Monte Cristo'?",
+    "A": "Alexandre Dumas",
+    "B": "Victor Hugo",
+    "C": "Gustave Flaubert",
+    "D": "Honoré de Balzac",
+    "answer": "A"
+  },
+  {
+    "question": "Who is the author of 'The Da Vinci Code'?",
+    "A": "Dan Brown",
+    "B": "John Grisham",
+    "C": "James Patterson",
+    "D": "Stephen King",
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote 'War and Peace'?",
+    "A": "Leo Tolstoy",
+    "B": "Fyodor Dostoevsky",
+    "C": "Vladimir Nabokov",
+    "D": "Anton Chekhov",
+    "answer": "A"
+  },
+  {
+    "question": "Who is the author of 'The Bell Jar'?",
+    "A": "Sylvia Plath",
+    "B": "Esther Greenwood",
+    "C": "Virginia Woolf",
+    "D": "Edna St. Vincent Millay",
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote 'The Adventures of Huckleberry Finn'?",
+    "A": "Mark Twain",
+    "B": "Charles Dickens",
+    "C": "Robert Louis Stevenson",
+    "D": "Herman Melville",
+    "answer": "A"
+  },
+  {
+    "question": "Who is the author of 'The Scarlet Letter'?",
+    "A": "Nathaniel Hawthorne",
+    "B": "Edgar Allan Poe",
+    "C": "Herman Melville",
+    "D": "Emily Dickinson",
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "A": "Charlotte Brontë",
+    "B": "Jane Austen",
+    "C": "Emily Brontë",
+    "D": "Mary Shelley",
+    "answer": "B"
+  },
+  {
+    "question": "What is the title of George Orwell's dystopian novel?",
+    "A": "Brave New World",
+    "B": "Fahrenheit 451",
+    "C": "1984",
+    "D": "The Handmaid's Tale",
+    "answer": "C"
+  },
+  {
+    "question": "Who wrote 'Moby Dick'?",
+    "A": "Herman Melville",
+    "B": "Mark Twain",
+    "C": "Ernest Hemingway",
+    "D": "F. Scott Fitzgerald",
+    "answer": "A"
+  },
+  {
+    "question": "What is the first book of the Harry Potter series?",
+    "A": "Harry Potter and the Chamber of Secrets",
+    "B": "Harry Potter and the Goblet of Fire",
+    "C": "Harry Potter and the Philosopher's Stone",
+    "D": "Harry Potter and the Prisoner of Azkaban",
+    "answer": "C"
+  },
+  {
+    "question": "Who is the author of 'The Great Gatsby'?",
+    "A": "F. Scott Fitzgerald",
+    "B": "John Steinbeck",
+    "C": "Ernest Hemingway",
+    "D": "T.S. Eliot",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the fictional detective created by Arthur Conan Doyle?",
+    "A": "Hercule Poirot",
+    "B": "Sherlock Holmes",
+    "C": "Sam Spade",
+    "D": "Philip Marlowe",
+    "answer": "B"
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "A": "Harper Lee",
+    "B": "Toni Morrison",
+    "C": "Alice Walker",
+    "D": "Margaret Atwood",
+    "answer": "A"
+  },
+  {
+    "question": "Which novel features the characters Elizabeth Bennet and Mr. Darcy?",
+    "A": "Sense and Sensibility",
+    "B": "Pride and Prejudice",
+    "C": "Emma",
+    "D": "Northanger Abbey",
+    "answer": "B"
+  },
+  {
+    "question": "Who wrote 'Brave New World'?",
+    "A": "Aldous Huxley",
+    "B": "George Orwell",
+    "C": "Ray Bradbury",
+    "D": "Isaac Asimov",
+    "answer": "A"
+  },
+  {
+    "question": "What is the title of the first book in the 'Lord of the Rings' series?",
+    "A": "The Two Towers",
+    "B": "The Fellowship of the Ring",
+    "C": "The Return of the King",
+    "D": "The Hobbit",
+    "answer": "B"
+  },
+  {
+    "question": "Who wrote 'The Catcher in the Rye'?",
+    "A": "J.D. Salinger",
+    "B": "Jack Kerouac",
+    "C": "William Golding",
+    "D": "John Steinbeck",
+    "answer": "A"
+  },
+  {
+    "question": "Who is the author of 'The Alchemist'?",
+    "A": "Gabriel García Márquez",
+    "B": "Paulo Coelho",
+    "C": "Jorge Luis Borges",
+    "D": "Mario Vargas Llosa",
+    "answer": "B"
+  },
+  {
+    "question": "What is the title of the first book in the 'Chronicles of Narnia' series?",
+    "A": "The Lion, the Witch and the Wardrobe",
+    "B": "The Magician's Nephew",
+    "C": "Prince Caspian",
+    "D": "The Voyage of the Dawn Treader",
+    "answer": "B"
+  },
+  {
+    "question": "Who wrote 'The Picture of Dorian Gray'?",
+    "A": "Oscar Wilde",
+    "B": "Henry James",
+    "C": "James Joyce",
+    "D": "Mark Twain",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the main character in 'The Great Gatsby'?",
+    "A": "Tom Buchanan",
+    "B": "Jay Gatsby",
+    "C": "Nick Carraway",
+    "D": "Daisy Buchanan",
+    "answer": "B"
+  },
+  {
+    "question": "Who wrote 'Wuthering Heights'?",
+    "A": "Charlotte Brontë",
+    "B": "Emily Brontë",
+    "C": "Anne Brontë",
+    "D": "Mary Shelley",
+    "answer": "B"
+  },
+  {
+    "question": "What is the title of the novel by George Orwell about a totalitarian regime?",
+    "A": "Brave New World",
+    "B": "1984",
+    "C": "The Handmaid's Tale",
+    "D": "Fahrenheit 451",
+    "answer": "B"
+  },
+  {
+    "question": "Who is the author of 'Fahrenheit 451'?",
+    "A": "Ray Bradbury",
+    "B": "George Orwell",
+    "C": "Aldous Huxley",
+    "D": "Isaac Asimov",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the character who is a young wizard in J.K. Rowling's series?",
+    "A": "Harry Potter",
+    "B": "Hermione Granger",
+    "C": "Ron Weasley",
+    "D": "Draco Malfoy",
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote 'The Road'?",
+    "A": "Cormac McCarthy",
+    "B": "Stephen King",
+    "C": "Don DeLillo",
+    "D": "Philip Roth",
+    "answer": "A"
+  },
+  {
+    "question": "What is the title of the novel about a dystopian future where books are banned?",
+    "A": "The Giver",
+    "B": "Fahrenheit 451",
+    "C": "The Hunger Games",
+    "D": "Divergent",
+    "answer": "B"
+  },
+  {
+    "question": "Who wrote 'The Grapes of Wrath'?",
+    "A": "Ernest Hemingway",
+    "B": "John Steinbeck",
+    "C": "F. Scott Fitzgerald",
+    "D": "Mark Twain",
+    "answer": "B"
+  },
+  {
+    "question": "Who is the author of 'Beloved'?",
+    "A": "Toni Morrison",
+    "B": "Alice Walker",
+    "C": "Zora Neale Hurston",
+    "D": "Nella Larsen",
+    "answer": "A"
+  },
+  {
+    "question": "What is the title of the fantasy series by J.R.R. Tolkien?",
+    "A": "The Hobbit",
+    "B": "The Chronicles of Narnia",
+    "C": "The Dark Tower",
+    "D": "A Song of Ice and Fire",
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote 'Gone with the Wind'?",
+    "A": "Harper Lee",
+    "B": "Margaret Mitchell",
+    "C": "F. Scott Fitzgerald",
+    "D": "Virginia Woolf",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the protagonist in 'The Catcher in the Rye'?",
+    "A": "Holden Caulfield",
+    "B": "Jay Gatsby",
+    "C": "Atticus Finch",
+    "D": "Huckleberry Finn",
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote 'Crime and Punishment'?",
+    "A": "Leo Tolstoy",
+    "B": "Fyodor Dostoevsky",
+    "C": "Anton Chekhov",
+    "D": "Nikolai Gogol",
+    "answer": "B"
+  },
+  {
+    "question": "What is the title of the novel featuring a character named Elizabeth Bennet?",
+    "A": "Emma",
+    "B": "Sense and Sensibility",
+    "C": "Pride and Prejudice",
+    "D": "Northanger Abbey",
+    "answer": "C"
+  },
+  {
+    "question": "Who wrote 'Little Women'?",
+    "A": "Louisa May Alcott",
+    "B": "Emily Dickinson",
+    "C": "Charlotte Brontë",
+    "D": "Jane Austen",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the author of 'The Fault in Our Stars'?",
+    "A": "John Green",
+    "B": "Nicholas Sparks",
+    "C": "David Levithan",
+    "D": "Rainbow Rowell",
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote 'A Tale of Two Cities'?",
+    "A": "Charles Dickens",
+    "B": "Leo Tolstoy",
+    "C": "George Eliot",
+    "D": "Henry James",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the author who created the character Sherlock Holmes?",
+    "A": "Agatha Christie",
+    "B": "Arthur Conan Doyle",
+    "C": "Daphne du Maurier",
+    "D": "Raymond Chandler",
+    "answer": "B"
+  },
+  {
+    "question": "Who wrote 'The Adventures of Huckleberry Finn'?",
+    "A": "Mark Twain",
+    "B": "Ernest Hemingway",
+    "C": "Harper Lee",
+    "D": "John Steinbeck",
+    "answer": "A"
+  },
+  {
+    "question": "What is the title of the novel about a character named Pip?",
+    "A": "Great Expectations",
+    "B": "David Copperfield",
+    "C": "Oliver Twist",
+    "D": "Bleak House",
+    "answer": "A"
+  },
+  {
+    "question": "Who is the author of 'The Old Man and the Sea'?",
+    "A": "F. Scott Fitzgerald",
+    "B": "Ernest Hemingway",
+    "C": "John Steinbeck",
+    "D": "Ray Bradbury",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the author of 'The Road to Serfdom'?",
+    "A": "Friedrich Hayek",
+    "B": "Milton Friedman",
+    "C": "John Maynard Keynes",
+    "D": "Ludwig von Mises",
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote 'The Bell Jar'?",
+    "A": "Sylvia Plath",
+    "B": "Anne Sexton",
+    "C": "Virginia Woolf",
+    "D": "Margaret Atwood",
+    "answer": "A"
+  },
+  {
+    "question": "What is the title of the book that features a character named Holden Caulfield?",
+    "A": "The Great Gatsby",
+    "B": "To Kill a Mockingbird",
+    "C": "The Catcher in the Rye",
+    "D": "The Outsiders",
+    "answer": "C"
+  },
+  {
+    "question": "Who wrote 'The Color Purple'?",
+    "A": "Alice Walker",
+    "B": "Toni Morrison",
+    "C": "Zora Neale Hurston",
+    "D": "Nella Larsen",
+    "answer": "A"
+  },
+  {
+    "question": "What is the title of the book that starts with 'Call me Ishmael'?",
+    "A": "Moby Dick",
+    "B": "The Whale",
+    "C": "The Old Man and the Sea",
+    "D": "The Sea-Wolf",
+    "answer": "A"
+  },
+  {
+    "question": "Who is the author of 'The Hitchhiker's Guide to the Galaxy'?",
+    "A": "Douglas Adams",
+    "B": "Terry Pratchett",
+    "C": "Neil Gaiman",
+    "D": "J.K. Rowling",
+    "answer": "A"
+  },
+  {
+    "question": "What is the name of the main character in 'The Hunger Games'?",
+    "A": "Katniss Everdeen",
+    "B": "Hermione Granger",
+    "C": "Tris Prior",
+    "D": "Bella Swan",
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote 'The Invisible Man'?",
+    "A": "H.G. Wells",
+    "B": "Ralph Ellison",
+    "C": "Ray Bradbury",
+    "D": "George Orwell",
+    "answer": "A"
+  },
+  {
+    "question": "What is the title of the novel by Khaled Hosseini about a boy in Afghanistan?",
+    "A": "The Kite Runner",
+    "B": "A Thousand Splendid Suns",
+    "C": "And the Mountains Echoed",
+    "D": "The Mountain Echo",
+    "answer": "A"
+  },
+  {
+    "question": "Who wrote 'The Da Vinci Code'?",
+    "A": "Dan Brown",
+    "B": "Stephen King",
+    "C": "John Grisham",
+    "D": "James Patterson",
+    "answer": "A"
+  },
+  {
+    "question": "What is the title of the book by J.R.R. Tolkien that is a prequel to 'The Lord of the Rings'?",
+    "A": "The Hobbit",
+    "B": "The Silmarillion",
+    "C": "Unfinished Tales",
+    "D": "The Children of Húrin",
+    "answer": "A"
+  },
+  {
+    "question": "Who is the author of 'The Glass Castle'?",
+    "A": "Jeannette Walls",
+    "B": "Tara Westover",
+    "C": "Maya Angelou",
+    "D": "Oprah Winfrey",
+    "answer": "A"
+  },
+  {
+    "question": "What part of speech is the word 'quickly'?",
+    "A": "Noun",
+    "B": "Adverb",
+    "C": "Adjective",
+    "D": "Verb",
+    "answer": "B"
+  },
+  {
+    "question": "Which sentence is correct?",
+    "A": "He go to the store.",
+    "B": "He goes to the store.",
+    "C": "He going to the store.",
+    "D": "He gone to the store.",
+    "answer": "B"
+  },
+  {
+    "question": "What is the plural of 'child'?",
+    "A": "Childs",
+    "B": "Children",
+    "C": "Childes",
+    "D": "Childrens",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a compound sentence?",
+    "A": "I like tea.",
+    "B": "I like tea, and she likes coffee.",
+    "C": "Although I like tea.",
+    "D": "Because I like tea.",
+    "answer": "B"
+  },
+  {
+    "question": "What is the past tense of 'go'?",
+    "A": "Goes",
+    "B": "Going",
+    "C": "Went",
+    "D": "Gone",
+    "answer": "C"
+  },
+  {
+    "question": "Which word is an example of an adjective?",
+    "A": "Run",
+    "B": "Happily",
+    "C": "Blue",
+    "D": "Quickly",
+    "answer": "C"
+  },
+  {
+    "question": "What is the correct form of the verb in this sentence: 'She ____ to the park every day.'?",
+    "A": "Go",
+    "B": "Goes",
+    "C": "Gone",
+    "D": "Going",
+    "answer": "B"
+  },
+  {
+    "question": "Identify the subject in the sentence: 'The cat chased the mouse.'",
+    "A": "Chased",
+    "B": "The cat",
+    "C": "The mouse",
+    "D": "Chasing",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following sentences is in passive voice?",
+    "A": "The chef cooked the meal.",
+    "B": "The meal was cooked by the chef.",
+    "C": "The chef is cooking the meal.",
+    "D": "The chef will cook the meal.",
+    "answer": "B"
+  },
+  {
+    "question": "Which sentence is correct?",
+    "A": "He doesn't likes pizza.",
+    "B": "He don't like pizza.",
+    "C": "He doesn't like pizza.",
+    "D": "He doesn't liking pizza.",
+    "answer": "C"
+  },
+  {
+    "question": "What is the main verb in the sentence: 'She is reading a book.'?",
+    "A": "Is",
+    "B": "Reading",
+    "C": "She",
+    "D": "Book",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is an example of a preposition?",
+    "A": "Quickly",
+    "B": "Under",
+    "C": "Beautiful",
+    "D": "Run",
+    "answer": "B"
+  },
+  {
+    "question": "What is the correct plural form of 'mouse'?",
+    "A": "Mouses",
+    "B": "Mice",
+    "C": "Mices",
+    "D": "Mouse",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following sentences uses correct punctuation?",
+    "A": "Lets eat, Grandma.",
+    "B": "Lets eat Grandma.",
+    "C": "Let's eat Grandma.",
+    "D": "Lets' eat Grandma.",
+    "answer": "C"
+  },
+  {
+    "question": "What is the future tense of 'to be' for 'he'?",
+    "A": "He is",
+    "B": "He was",
+    "C": "He will be",
+    "D": "He being",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is an interrogative sentence?",
+    "A": "It is raining.",
+    "B": "What time is it?",
+    "C": "She runs fast.",
+    "D": "Close the door.",
+    "answer": "B"
+  },
+  {
+    "question": "Identify the verb in the sentence: 'The dog barked loudly.'",
+    "A": "Dog",
+    "B": "Barked",
+    "C": "Loudly",
+    "D": "The",
+    "answer": "B"
+  },
+  {
+    "question": "What is the correct form of 'to have' for 'they' in the present tense?",
+    "A": "They has",
+    "B": "They have",
+    "C": "They haves",
+    "D": "They having",
+    "answer": "B"
+  },
+  {
+    "question": "Which sentence is an example of an exclamatory sentence?",
+    "A": "What a beautiful day!",
+    "B": "Is it a beautiful day?",
+    "C": "It is a beautiful day.",
+    "D": "Please close the door.",
+    "answer": "A"
+  },
+  {
+    "question": "What is the past participle of 'eat'?",
+    "A": "Eaten",
+    "B": "Ate",
+    "C": "Eating",
+    "D": "Eats",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following sentences uses the correct form of 'there', 'their', or 'they're'?",
+    "A": "They're going to the park.",
+    "B": "There going to the park.",
+    "C": "Their going to the park.",
+    "D": "There going to the park.",
+    "answer": "A"
+  },
+  {
+    "question": "What is the purpose of a conjunction?",
+    "A": "To describe a noun",
+    "B": "To connect words or groups of words",
+    "C": "To replace a noun",
+    "D": "To express action",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a compound-complex sentence?",
+    "A": "I like coffee.",
+    "B": "I like coffee, and she likes tea.",
+    "C": "Although I like coffee, I will drink tea if necessary.",
+    "D": "I will drink tea.",
+    "answer": "C"
+  },
+  {
+    "question": "What is the correct form of the verb in this sentence: 'She ____ a letter.'?",
+    "A": "Write",
+    "B": "Wrote",
+    "C": "Writes",
+    "D": "Writing",
+    "answer": "C"
+  },
+  {
+    "question": "Identify the adverb in the sentence: 'He ran quickly.'",
+    "A": "He",
+    "B": "Ran",
+    "C": "Quickly",
+    "D": "The",
+    "answer": "C"
+  },
+  {
+    "question": "What is the correct form of 'to be' in the past tense for 'I'?",
+    "A": "I am",
+    "B": "I was",
+    "C": "I be",
+    "D": "I being",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a synonym for 'happy'?",
+    "A": "Sad",
+    "B": "Joyful",
+    "C": "Angry",
+    "D": "Tired",
+    "answer": "B"
+  },
+  {
+    "question": "What type of sentence is: 'Close the window.'?",
+    "A": "Interrogative",
+    "B": "Imperative",
+    "C": "Exclamatory",
+    "D": "Declarative",
+    "answer": "B"
+  },
+  {
+    "question": "What is the present continuous form of 'to play'?",
+    "A": "Playing",
+    "B": "Played",
+    "C": "Plays",
+    "D": "Play",
+    "answer": "A"
+  },
+  {
+    "question": "Which sentence contains a run-on?",
+    "A": "I love to read I have many books.",
+    "B": "I love to read, and I have many books.",
+    "C": "I love to read.",
+    "D": "I have many books.",
+    "answer": "A"
+  },
+  {
+    "question": "What is the plural of 'woman'?",
+    "A": "Womans",
+    "B": "Women",
+    "C": "Woman",
+    "D": "Womans'",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following sentences uses the correct form of 'its' or 'it's'?",
+    "A": "It's a sunny day.",
+    "B": "Its a sunny day.",
+    "C": "Its' a sunny day.",
+    "D": "It a sunny day.",
+    "answer": "A"
+  },
+  {
+    "question": "What is the correct order of adjectives in the phrase: 'a ____ dog'?",
+    "A": "Brown big",
+    "B": "Big brown",
+    "C": "Brown big dog",
+    "D": "Big brown dog",
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following sentences is in the past perfect tense?",
+    "A": "I have eaten breakfast.",
+    "B": "I had eaten breakfast.",
+    "C": "I eat breakfast.",
+    "D": "I was eating breakfast.",
+    "answer": "B"
+  },
+  {
+    "question": "What is the correct form of the verb in the sentence: 'He ____ to the store yesterday.'?",
+    "A": "Go",
+    "B": "Goes",
+    "C": "Went",
+    "D": "Going",
+    "answer": "C"
+  },
+  {
+    "question": "Identify the object in the sentence: 'She gave him a book.'",
+    "A": "She",
+    "B": "Gave",
+    "C": "Him",
+    "D": "A book",
+    "answer": "D"
+  },
+  {
+    "question": "What type of clause is 'if it rains' in the sentence 'I will stay home if it rains'?",
+    "A": "Independent clause",
+    "B": "Dependent clause",
+    "C": "Main clause",
+    "D": "Subordinate clause",
+    "answer": "B"
+  },
+  {
+    "question": "What is the correct comparative form of 'good'?",
+    "A": "Gooder",
+    "B": "More good",
+    "C": "Better",
+    "D": "Goodest",
+    "answer": "C"
+  },
+  {
+    "question": "Which sentence uses the subjunctive mood correctly?",
+    "A": "I wish he was here.",
+    "B": "I wish he were here.",
+    "C": "I wish he is here.",
+    "D": "I wish he be here.",
+    "answer": "B"
+  },
+  {
+    "question": "What is the correct form of the verb in this sentence: 'They ____ their homework.'?",
+    "A": "Finish",
+    "B": "Finishes",
+    "C": "Finished",
+    "D": "Finishing",
+    "answer": "C"
+  },
+  {
+    "question": "What type of sentence is: 'Are you coming to the party?'",
+    "A": "Exclamatory",
+    "B": "Interrogative",
+    "C": "Imperative",
+    "D": "Declarative",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a coordinating conjunction?",
+    "A": "Although",
+    "B": "Because",
+    "C": "And",
+    "D": "Unless",
+    "answer": "C"
+  },
+  {
+    "question": "Identify the main clause in the sentence: 'When it rains, I stay inside.'",
+    "A": "When it rains",
+    "B": "I stay inside",
+    "C": "It rains",
+    "D": "Stay inside",
+    "answer": "B"
+  },
+  {
+    "question": "What is the past tense of 'sing'?",
+    "A": "Sang",
+    "B": "Sung",
+    "C": "Sings",
+    "D": "Singed",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is an example of a possessive noun?",
+    "A": "Dogs",
+    "B": "Dog's",
+    "C": "Dog",
+    "D": "Doghouse",
+    "answer": "B"
+  },
+  {
+    "question": "What is the correct form of the verb in this sentence: 'She ____ a beautiful song.'?",
+    "A": "Sing",
+    "B": "Sang",
+    "C": "Sings",
+    "D": "Singing",
+    "answer": "C"
+  },
+  {
+    "question": "What is the superlative form of 'tall'?",
+    "A": "Tall",
+    "B": "Taller",
+    "C": "Tallest",
+    "D": "Most tall",
+    "answer": "C"
+  },
+  {
+    "question": "Which sentence is an example of direct speech?",
+    "A": "He said he was tired.",
+    "B": "'I am tired,' he said.",
+    "C": "He is tired.",
+    "D": "He said that he is tired.",
+    "answer": "B"
+  },
+  {
+    "question": "What is the correct form of the verb in this sentence: 'They ____ to the concert last night.'?",
+    "A": "Go",
+    "B": "Goes",
+    "C": "Went",
+    "D": "Going",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a synonym for 'big'?",
+    "A": "Huge",
+    "B": "Small",
+    "C": "Tiny",
+    "D": "Little",
+    "answer": "A"
+  },
+  {
+    "question": "What is the purpose of a subject in a sentence?",
+    "A": "To perform the action",
+    "B": "To describe the action",
+    "C": "To modify the noun",
+    "D": "To express emotion",
+    "answer": "A"
+  },
+  {
+    "question": "Identify the adverb in the sentence: 'She sings beautifully.'",
+    "A": "She",
+    "B": "Sings",
+    "C": "Beautifully",
+    "D": "The",
+    "answer": "C"
+  },
+  {
+    "question": "Which sentence is correct?",
+    "A": "He play guitar.",
+    "B": "He playing guitar.",
+    "C": "He plays guitar.",
+    "D": "He played guitar.",
+    "answer": "C"
+  },
+  {
+    "question": "What is the past participle of 'write'?",
+    "A": "Wrote",
+    "B": "Writing",
+    "C": "Written",
+    "D": "Writes",
+    "answer": "C"
+  },
+  {
+    "question": "What is the correct form of 'to do' for 'I' in the present tense?",
+    "A": "I do",
+    "B": "I does",
+    "C": "I done",
+    "D": "I doing",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is an example of a simile?",
+    "A": "He is a lion.",
+    "B": "He runs like the wind.",
+    "C": "The world is a stage.",
+    "D": "Time is a thief.",
+    "answer": "B"
+  },
+  {
+    "question": "What is the correct form of the verb in this sentence: 'They ____ at the beach yesterday.'?",
+    "A": "Swim",
+    "B": "Swam",
+    "C": "Swimming",
+    "D": "Swims",
+    "answer": "B"
+  },
+  {
+    "question": "Which sentence is a complex sentence?",
+    "A": "She likes ice cream.",
+    "B": "She likes ice cream, and he likes cake.",
+    "C": "Although she likes ice cream, she prefers cake.",
+    "D": "She likes ice cream, but he does not.",
+    "answer": "C"
+  },
+  {
+    "question": "What is the correct form of the verb in this sentence: 'He ____ to school every day.'?",
+    "A": "Go",
+    "B": "Goes",
+    "C": "Gone",
+    "D": "Going",
+    "answer": "B"
+  },
+  {
+    "question": "What is 7 + 5?",
+    "A": "10",
+    "B": "11",
+    "C": "12",
+    "D": "13",
+    "answer": "C"
+  },
+  {
+    "question": "What is 15 - 9?",
+    "A": "5",
+    "B": "6",
+    "C": "7",
+    "D": "8",
+    "answer": "B"
+  },
+  {
+    "question": "What is 8 × 6?",
+    "A": "42",
+    "B": "48",
+    "C": "54",
+    "D": "56",
+    "answer": "B"
+  },
+  {
+    "question": "What is 36 ÷ 6?",
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "7",
+    "answer": "C"
+  },
+  {
+    "question": "What is the square of 9?",
+    "A": "18",
+    "B": "27",
+    "C": "81",
+    "D": "72",
+    "answer": "C"
+  },
+  {
+    "question": "What is 5 + 8 × 2?",
+    "A": "21",
+    "B": "26",
+    "C": "21",
+    "D": "19",
+    "answer": "D"
+  },
+  {
+    "question": "What is the value of π (pi) approximately?",
+    "A": "3.14",
+    "B": "3.16",
+    "C": "3.12",
+    "D": "3.15",
+    "answer": "A"
+  },
+  {
+    "question": "What is 12% of 200?",
+    "A": "20",
+    "B": "24",
+    "C": "30",
+    "D": "18",
+    "answer": "B"
+  },
+  {
+    "question": "If x = 3, what is the value of 2x + 5?",
+    "A": "8",
+    "B": "10",
+    "C": "11",
+    "D": "9",
+    "answer": "D"
+  },
+  {
+    "question": "What is the perimeter of a rectangle with length 10 and width 5?",
+    "A": "30",
+    "B": "25",
+    "C": "20",
+    "D": "15",
+    "answer": "A"
+  },
+  {
+    "question": "What is the area of a triangle with base 10 and height 5?",
+    "A": "20",
+    "B": "25",
+    "C": "30",
+    "D": "50",
+    "answer": "A"
+  },
+  {
+    "question": "What is 64 divided by 8?",
+    "A": "7",
+    "B": "8",
+    "C": "9",
+    "D": "10",
+    "answer": "B"
+  },
+  {
+    "question": "What is 15 + 6 - 2?",
+    "A": "19",
+    "B": "20",
+    "C": "21",
+    "D": "22",
+    "answer": "A"
+  },
+  {
+    "question": "What is the value of 3^3?",
+    "A": "6",
+    "B": "9",
+    "C": "27",
+    "D": "30",
+    "answer": "C"
+  },
+  {
+    "question": "What is the next prime number after 5?",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "answer": "B"
+  },
+  {
+    "question": "What is the sum of angles in a triangle?",
+    "A": "180 degrees",
+    "B": "360 degrees",
+    "C": "90 degrees",
+    "D": "270 degrees",
+    "answer": "A"
+  },
+  {
+    "question": "What is 25% of 80?",
+    "A": "15",
+    "B": "20",
+    "C": "25",
+    "D": "30",
+    "answer": "B"
+  },
+  {
+    "question": "What is 3.5 + 4.6?",
+    "A": "8.1",
+    "B": "8.0",
+    "C": "9.1",
+    "D": "7.8",
+    "answer": "C"
+  },
+  {
+    "question": "What is the least common multiple of 4 and 5?",
+    "A": "10",
+    "B": "15",
+    "C": "20",
+    "D": "25",
+    "answer": "C"
+  },
+  {
+    "question": "What is the value of x in the equation 2x = 10?",
+    "A": "2",
+    "B": "3",
+    "C": "5",
+    "D": "7",
+    "answer": "C"
+  },
+  {
+    "question": "What is the median of the set {1, 3, 3, 6, 7, 8, 9}?",
+    "A": "3",
+    "B": "6",
+    "C": "5",
+    "D": "4",
+    "answer": "C"
+  },
+  {
+    "question": "What is 50 - 15 + 5?",
+    "A": "40",
+    "B": "35",
+    "C": "30",
+    "D": "25",
+    "answer": "A"
+  },
+  {
+    "question": "If a rectangle has a length of 8 and a width of 3, what is its area?",
+    "A": "24",
+    "B": "26",
+    "C": "30",
+    "D": "32",
+    "answer": "A"
+  },
+  {
+    "question": "What is the value of 5 × (3 + 2)?",
+    "A": "10",
+    "B": "15",
+    "C": "25",
+    "D": "20",
+    "answer": "C"
+  },
+  {
+    "question": "What is the slope of a line if it passes through points (2,3) and (4,7)?",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "answer": "B"
+  },
+  {
+    "question": "What is 14 ÷ 2 × 7?",
+    "A": "49",
+    "B": "42",
+    "C": "21",
+    "D": "14",
+    "answer": "B"
+  },
+  {
+    "question": "What is the volume of a cube with side length 3?",
+    "A": "9",
+    "B": "27",
+    "C": "6",
+    "D": "12",
+    "answer": "B"
+  },
+  {
+    "question": "What is 10 squared?",
+    "A": "10",
+    "B": "100",
+    "C": "20",
+    "D": "30",
+    "answer": "B"
+  },
+  {
+    "question": "What is 45 + 55?",
+    "A": "100",
+    "B": "90",
+    "C": "110",
+    "D": "80",
+    "answer": "A"
+  },
+  {
+    "question": "If you roll a fair six-sided die, what is the probability of rolling a 3?",
+    "A": "1/6",
+    "B": "1/2",
+    "C": "1/3",
+    "D": "1/4",
+    "answer": "A"
+  },
+  {
+    "question": "What is the next number in the sequence: 2, 4, 6, 8, ...?",
+    "A": "9",
+    "B": "10",
+    "C": "11",
+    "D": "12",
+    "answer": "B"
+  },
+  {
+    "question": "What is 3 × 3 × 3?",
+    "A": "6",
+    "B": "9",
+    "C": "27",
+    "D": "30",
+    "answer": "C"
+  },
+  {
+    "question": "What is 18 - 7 + 4?",
+    "A": "15",
+    "B": "16",
+    "C": "17",
+    "D": "18",
+    "answer": "C"
+  },
+  {
+    "question": "What is the angle sum of a quadrilateral?",
+    "A": "360 degrees",
+    "B": "180 degrees",
+    "C": "90 degrees",
+    "D": "270 degrees",
+    "answer": "A"
+  },
+  {
+    "question": "What is 3/4 + 1/4?",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "answer": "A"
+  },
+  {
+    "question": "What is the value of 10 - 3 × 2?",
+    "A": "4",
+    "B": "7",
+    "C": "5",
+    "D": "6",
+    "answer": "B"
+  },
+  {
+    "question": "If a triangle has sides of lengths 3, 4, and 5, what type of triangle is it?",
+    "A": "Equilateral",
+    "B": "Isosceles",
+    "C": "Scalene",
+    "D": "Right",
+    "answer": "D"
+  },
+  {
+    "question": "What is the least common multiple of 3 and 4?",
+    "A": "6",
+    "B": "12",
+    "C": "8",
+    "D": "10",
+    "answer": "B"
+  },
+  {
+    "question": "What is the greatest common divisor of 12 and 15?",
+    "A": "3",
+    "B": "4",
+    "C": "5",
+    "D": "6",
+    "answer": "A"
+  },
+  {
+    "question": "What is the value of 8 × 0?",
+    "A": "0",
+    "B": "8",
+    "C": "1",
+    "D": "Undefined",
+    "answer": "A"
+  },
+  {
+    "question": "What is 100 - 25% of 200?",
+    "A": "50",
+    "B": "100",
+    "C": "150",
+    "D": "75",
+    "answer": "C"
+  },
+  {
+    "question": "What is the area of a circle with radius 7?",
+    "A": "154",
+    "B": "144",
+    "C": "160",
+    "D": "128",
+    "answer": "A"
+  },
+  {
+    "question": "What is the value of 6 + 4 × 2?",
+    "A": "14",
+    "B": "16",
+    "C": "20",
+    "D": "12",
+    "answer": "A"
+  },
+  {
+    "question": "What is the cube root of 27?",
+    "A": "2",
+    "B": "3",
+    "C": "4",
+    "D": "5",
+    "answer": "B"
+  },
+  {
+    "question": "What is the sum of the interior angles of a pentagon?",
+    "A": "360 degrees",
+    "B": "540 degrees",
+    "C": "720 degrees",
+    "D": "180 degrees",
+    "answer": "B"
+  },
+  {
+    "question": "If a car travels at 60 km/h, how far will it travel in 2 hours?",
+    "A": "100 km",
+    "B": "120 km",
+    "C": "150 km",
+    "D": "180 km",
+    "answer": "B"
+  },
+  {
+    "question": "What is 45% of 200?",
+    "A": "90",
+    "B": "80",
+    "C": "70",
+    "D": "100",
+    "answer": "A"
+  },
+  {
+    "question": "What is the value of 7^2?",
+    "A": "14",
+    "B": "21",
+    "C": "49",
+    "D": "56",
+    "answer": "C"
+  },
+  {
+    "question": "What is the sum of the first 10 natural numbers?",
+    "A": "45",
+    "B": "55",
+    "C": "50",
+    "D": "60",
+    "answer": "B"
   }
   
 ]
