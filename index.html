@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kaun Banega Crorepati Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Kaun Banega Crorepati</h1>
+        <h1 class="lifelines-card" id="lifelines-remaining">Lifelines Remaining: 3</h1>
+        <div class="question" id="question"></div>
+        <div class="options" id="options">
+            <button class="option" id="A">A. </button>
+            <button class="option" id="B">B. </button>
+            <button class="option" id="C">C. </button>
+            <button class="option" id="D">D. </button>
+        </div>
+        <div class="button-container">
+            <button id="next-btn">Next Question</button>
+            <button id="new-game-btn">New Game</button> <!-- New Game button -->
+
+        </div>
+        <div class="prize-card" id="prize-message" style="display: none;"></div> <!-- Prize message div -->
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
