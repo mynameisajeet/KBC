@@ -1359,6 +1359,238 @@
     "C": "रहना है तेरे दिल में",
     "D": "कुछ कुछ होता है",
     "answer": "C"
+  },
+  {
+    "question": "When was the Union Public Service Commission (UPSC) established?",
+    "A": "1947",
+    "B": "1950",
+    "C": "1952",
+    "D": "1926",
+    "answer": "D"
+  },
+  {
+    "question": "Who appoints the Chairman of the Union Public Service Commission?",
+    "A": "President of India",
+    "B": "Prime Minister of India",
+    "C": "Chief Justice of India",
+    "D": "Vice President of India",
+    "answer": "A"
+  },
+  {
+    "question": "Which Article of the Indian Constitution provides for the establishment of the UPSC?",
+    "A": "Article 315",
+    "B": "Article 320",
+    "C": "Article 312",
+    "D": "Article 322",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following services is NOT recruited through the UPSC Civil Services Examination?",
+    "A": "Indian Foreign Service (IFS)",
+    "B": "Indian Police Service (IPS)",
+    "C": "Indian Revenue Service (IRS)",
+    "D": "Indian Railway Service",
+    "answer": "D"
+  },
+  {
+    "question": "How many stages are there in the UPSC Civil Services Examination?",
+    "A": "One",
+    "B": "Two",
+    "C": "Three",
+    "D": "Four",
+    "answer": "C"
+  },
+  {
+    "question": "What is the age limit for general category candidates appearing for the UPSC Civil Services Examination?",
+    "A": "21 to 32 years",
+    "B": "21 to 35 years",
+    "C": "21 to 40 years",
+    "D": "21 to 30 years",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following papers in the UPSC Prelims is qualifying in nature?",
+    "A": "General Studies Paper I",
+    "B": "General Studies Paper II (CSAT)",
+    "C": "Essay",
+    "D": "Optional Subject",
+    "answer": "B"
+  },
+  {
+    "question": "In which year did UPSC introduce the Civil Services Aptitude Test (CSAT)?",
+    "A": "2011",
+    "B": "2010",
+    "C": "2013",
+    "D": "2009",
+    "answer": "A"
+  },
+  {
+    "question": "What is the maximum number of attempts allowed for General category candidates in the UPSC Civil Services Examination?",
+    "A": "3",
+    "B": "6",
+    "C": "7",
+    "D": "4",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a subject in the UPSC Mains examination?",
+    "A": "Mechanical Engineering",
+    "B": "Physics",
+    "C": "Psychology",
+    "D": "All of the above",
+    "answer": "D"
+  },
+  {
+    "question": "Who was the first woman to top the UPSC Civil Services Examination?",
+    "A": "Kiran Bedi",
+    "B": "Anna Rajam Malhotra",
+    "C": "Ira Singhal",
+    "D": "Shah Faesal",
+    "answer": "C"
+  },
+  {
+    "question": "What is the total number of papers in the UPSC Mains written examination?",
+    "A": "7",
+    "B": "9",
+    "C": "6",
+    "D": "8",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is NOT a service recruited through the UPSC Civil Services Exam?",
+    "A": "Indian Postal Service",
+    "B": "Indian Administrative Service",
+    "C": "Indian Forest Service",
+    "D": "Indian Audit and Accounts Service",
+    "answer": "A"
+  },
+  {
+    "question": "What is the duration of each paper in the UPSC Civil Services Mains Examination?",
+    "A": "2 hours",
+    "B": "3 hours",
+    "C": "4 hours",
+    "D": "2.5 hours",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is the first stage of the UPSC Civil Services Examination?",
+    "A": "Prelims",
+    "B": "Mains",
+    "C": "Interview",
+    "D": "Medical Test",
+    "answer": "A"
+  },
+  {
+    "question": "What is the full form of 'CSAT' in the context of the UPSC exam?",
+    "A": "Civil Service Aptitude Test",
+    "B": "Civil Services Advanced Test",
+    "C": "Civil Service Academic Test",
+    "D": "Civil Society Aptitude Test",
+    "answer": "A"
+  },
+  {
+    "question": "How many papers are there in the General Studies portion of the UPSC Mains exam?",
+    "A": "4",
+    "B": "3",
+    "C": "2",
+    "D": "5",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following services can be opted through the UPSC Engineering Services Examination?",
+    "A": "Indian Revenue Service",
+    "B": "Indian Railways Service of Engineers",
+    "C": "Indian Administrative Service",
+    "D": "Indian Police Service",
+    "answer": "B"
+  },
+  {
+    "question": "The UPSC CSE Prelims consists of how many papers?",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is NOT a topic covered in the General Studies Paper 1 of UPSC Prelims?",
+    "A": "History of India",
+    "B": "Indian Polity",
+    "C": "English Language",
+    "D": "Economic and Social Development",
+    "answer": "C"
+  },
+  {
+    "question": "Which part of the UPSC Civil Services exam evaluates the candidate's personality?",
+    "A": "Prelims",
+    "B": "Mains",
+    "C": "Personality Test (Interview)",
+    "D": "Medical Test",
+    "answer": "C"
+  },
+  {
+    "question": "Which state has its own Public Service Commission but the exam is separate from UPSC?",
+    "A": "Maharashtra",
+    "B": "Gujarat",
+    "C": "Rajasthan",
+    "D": "All of the above",
+    "answer": "D"
+  },
+  {
+    "question": "In which language are UPSC Civil Services Examination papers available?",
+    "A": "Only English",
+    "B": "English and Hindi",
+    "C": "All 22 official languages of India",
+    "D": "English, Hindi, and regional languages",
+    "answer": "D"
+  },
+  {
+    "question": "What is the maximum marks for the UPSC Civil Services Mains written examination?",
+    "A": "1750",
+    "B": "2025",
+    "C": "2000",
+    "D": "1850",
+    "answer": "A"
+  },
+  {
+    "question": "Who is responsible for conducting the Indian Forest Service Examination?",
+    "A": "State Public Service Commission",
+    "B": "Union Public Service Commission",
+    "C": "Forest Department",
+    "D": "Ministry of Environment",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following subjects is compulsory in the UPSC Mains examination?",
+    "A": "Optional Subject",
+    "B": "Essay",
+    "C": "Mathematics",
+    "D": "Economics",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following services is categorized under Group A in the UPSC Civil Services?",
+    "A": "Indian Revenue Service",
+    "B": "Indian Defence Accounts Service",
+    "C": "Indian Audit and Accounts Service",
+    "D": "All of the above",
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following subjects is NOT an optional subject in the UPSC Civil Services Mains exam?",
+    "A": "Geography",
+    "B": "Anthropology",
+    "C": "Mathematics",
+    "D": "Marketing",
+    "answer": "D"
+  },
+  {
+    "question": "In UPSC Civil Services Interview, how many maximum marks are allotted?",
+    "A": "200",
+    "B": "250",
+    "C": "300",
+    "D": "350",
+    "answer": "B"
   }
   
 ]
