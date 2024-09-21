@@ -959,6 +959,166 @@
     "C": "Hyderabad",
     "D": "Bengaluru",
     "answer": "D"
+  },
+  {
+    "question": "Which sector contributes the most to India's GDP?",
+    "A": "Agriculture",
+    "B": "Manufacturing",
+    "C": "Services",
+    "D": "Mining",
+    "answer": "C"
+  },
+  {
+    "question": "In which year was the Indian rupee devalued for the first time?",
+    "A": "1966",
+    "B": "1971",
+    "C": "1947",
+    "D": "1991",
+    "answer": "A"
+  },
+  {
+    "question": "Which organization is responsible for regulating the monetary policy of India?",
+    "A": "Ministry of Finance",
+    "B": "Securities and Exchange Board of India (SEBI)",
+    "C": "Reserve Bank of India (RBI)",
+    "D": "NITI Aayog",
+    "answer": "C"
+  },
+  {
+    "question": "Who is known as the 'Father of the Indian Economic Reforms'?",
+    "A": "Manmohan Singh",
+    "B": "Amartya Sen",
+    "C": "P. V. Narasimha Rao",
+    "D": "Raghuram Rajan",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a direct tax in India?",
+    "A": "Goods and Services Tax (GST)",
+    "B": "Income Tax",
+    "C": "Custom Duty",
+    "D": "Excise Duty",
+    "answer": "B"
+  },
+  {
+    "question": "Which plan is also known as the 'People's Plan' in India?",
+    "A": "First Five-Year Plan",
+    "B": "Second Five-Year Plan",
+    "C": "Twenty-Point Programme",
+    "D": "Fourth Five-Year Plan",
+    "answer": "C"
+  },
+  {
+    "question": "Which Indian state is the largest producer of rice?",
+    "A": "Punjab",
+    "B": "Uttar Pradesh",
+    "C": "West Bengal",
+    "D": "Tamil Nadu",
+    "answer": "C"
+  },
+  {
+    "question": "Which organization calculates India's Gross Domestic Product (GDP)?",
+    "A": "Reserve Bank of India",
+    "B": "Central Statistical Office (CSO)",
+    "C": "NITI Aayog",
+    "D": "Ministry of Finance",
+    "answer": "B"
+  },
+  {
+    "question": "What is the base year currently used to calculate India's GDP?",
+    "A": "2004-05",
+    "B": "2011-12",
+    "C": "1999-2000",
+    "D": "2014-15",
+    "answer": "B"
+  },
+  {
+    "question": "The Green Revolution in India was associated with which of the following?",
+    "A": "Industrial Growth",
+    "B": "Agricultural Productivity",
+    "C": "Export Promotion",
+    "D": "Rural Employment",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a feature of the Indian economy?",
+    "A": "Mixed Economy",
+    "B": "Capitalist Economy",
+    "C": "Socialist Economy",
+    "D": "Communist Economy",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following sectors is known as the 'Primary Sector' of the Indian economy?",
+    "A": "Agriculture",
+    "B": "Construction",
+    "C": "Manufacturing",
+    "D": "Banking",
+    "answer": "A"
+  },
+  {
+    "question": "When was the Goods and Services Tax (GST) implemented in India?",
+    "A": "2015",
+    "B": "2017",
+    "C": "2016",
+    "D": "2018",
+    "answer": "B"
+  },
+  {
+    "question": "Which is the largest employer in India?",
+    "A": "Public Sector",
+    "B": "Private Sector",
+    "C": "Agriculture Sector",
+    "D": "Service Sector",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a welfare scheme launched by the Indian government to promote financial inclusion?",
+    "A": "Ayushman Bharat",
+    "B": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+    "C": "Make in India",
+    "D": "Swachh Bharat Mission",
+    "answer": "B"
+  },
+  {
+    "question": "Which tax is levied on the production and sale of goods in India?",
+    "A": "Excise Duty",
+    "B": "Income Tax",
+    "C": "Custom Duty",
+    "D": "Corporate Tax",
+    "answer": "A"
+  },
+  {
+    "question": "Which Indian city is known as the 'Financial Capital of India'?",
+    "A": "Delhi",
+    "B": "Bengaluru",
+    "C": "Mumbai",
+    "D": "Chennai",
+    "answer": "C"
+  },
+  {
+    "question": "The headquarters of the Reserve Bank of India (RBI) is located in which city?",
+    "A": "New Delhi",
+    "B": "Kolkata",
+    "C": "Mumbai",
+    "D": "Hyderabad",
+    "answer": "C"
+  },
+  {
+    "question": "Which agricultural crop has the largest area under cultivation in India?",
+    "A": "Wheat",
+    "B": "Rice",
+    "C": "Sugarcane",
+    "D": "Cotton",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is an indicator of economic development?",
+    "A": "Gross Domestic Product (GDP)",
+    "B": "Unemployment Rate",
+    "C": "Poverty Rate",
+    "D": "Infant Mortality Rate",
+    "answer": "A"
   }
   
 ]
