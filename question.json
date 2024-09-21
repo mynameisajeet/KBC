@@ -1591,6 +1591,638 @@
     "C": "300",
     "D": "350",
     "answer": "B"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "A": "Central Processing Unit",
+    "B": "Computer Personal Unit",
+    "C": "Central Processor Unit",
+    "D": "Computer Processing Unit",
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is an operating system?",
+    "A": "Microsoft Word",
+    "B": "Linux",
+    "C": "Mozilla Firefox",
+    "D": "Adobe Photoshop",
+    "answer": "B"
+  },
+  {
+    "question": "What is the primary function of the RAM?",
+    "A": "To store permanent data",
+    "B": "To execute commands",
+    "C": "To store temporary data",
+    "D": "To manage input and output",
+    "answer": "C"
+  },
+  {
+    "question": "Which device is used to input data into a computer?",
+    "A": "Monitor",
+    "B": "Printer",
+    "C": "Keyboard",
+    "D": "Speaker",
+    "answer": "C"
+  },
+  {
+    "question": "What does 'HTTP' stand for?",
+    "A": "Hypertext Transfer Protocol",
+    "B": "High Transfer Text Protocol",
+    "C": "Hyperlink Transfer Protocol",
+    "D": "Hypertext Transmission Protocol",
+    "answer": "A"
+  },
+  {
+    "question": "What is the main function of the operating system?",
+    "A": "Manage hardware resources",
+    "B": "Run applications",
+    "C": "Provide security",
+    "D": "All of the above",
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is not a programming language?",
+    "A": "Python",
+    "B": "HTML",
+    "C": "Java",
+    "D": "C++",
+    "answer": "B"
+  },
+  {
+    "question": "What does 'SSD' stand for?",
+    "A": "Solid State Drive",
+    "B": "Standard Storage Device",
+    "C": "Solid Storage Drive",
+    "D": "Super Speed Disk",
+    "answer": "A"
+  },
+  {
+    "question": "Which company developed the Windows operating system?",
+    "A": "Apple",
+    "B": "IBM",
+    "C": "Microsoft",
+    "D": "Google",
+    "answer": "C"
+  },
+  {
+    "question": "What is the purpose of an antivirus program?",
+    "A": "To speed up the computer",
+    "B": "To protect against malware",
+    "C": "To manage hardware",
+    "D": "To edit photos",
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a web browser?",
+    "A": "Microsoft Excel",
+    "B": "Google Chrome",
+    "C": "Adobe Reader",
+    "D": "Paint",
+    "answer": "B"
+  },
+  {
+    "question": "What is the function of a router?",
+    "A": "To print documents",
+    "B": "To connect networks",
+    "C": "To store data",
+    "D": "To input data",
+    "answer": "B"
+  },
+  {
+    "question": "What does 'GUI' stand for?",
+    "A": "General User Interface",
+    "B": "Graphical User Interface",
+    "C": "Global User Interface",
+    "D": "Graphical Universal Interface",
+    "answer": "B"
+  },
+  {
+    "question": "Which component is considered the brain of the computer?",
+    "A": "RAM",
+    "B": "Motherboard",
+    "C": "CPU",
+    "D": "Hard Drive",
+    "answer": "C"
+  },
+  {
+    "question": "What is a common use of the command line interface?",
+    "A": "Creating presentations",
+    "B": "Web browsing",
+    "C": "Running scripts",
+    "D": "Graphic design",
+    "answer": "C"
+  },
+  {
+    "question": "What is the purpose of a firewall?",
+    "A": "To protect from physical damage",
+    "B": "To filter incoming and outgoing network traffic",
+    "C": "To improve computer speed",
+    "D": "To manage user accounts",
+    "answer": "B"
+  },
+  {
+    "question": "What does 'URL' stand for?",
+    "A": "Uniform Resource Locator",
+    "B": "Universal Resource Locator",
+    "C": "Uniform Reference Locator",
+    "D": "Universal Reference Locator",
+    "answer": "A"
+  },
+  {
+    "question": "What type of software is Microsoft Office?",
+    "A": "Operating System",
+    "B": "Utility Software",
+    "C": "Application Software",
+    "D": "Firmware",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a function of a CPU?",
+    "A": "Storing data",
+    "B": "Performing calculations",
+    "C": "Inputting data",
+    "D": "Displaying data",
+    "answer": "B"
+  },
+  {
+    "question": "What does 'ISP' stand for?",
+    "A": "Internet Service Provider",
+    "B": "Internal Service Provider",
+    "C": "Internet Security Protocol",
+    "D": "Internal Security Provider",
+    "answer": "A"
+  },
+  {
+    "question": "What is phishing?",
+    "A": "A type of software bug",
+    "B": "A method of online fraud",
+    "C": "A computer programming technique",
+    "D": "A type of hardware failure",
+    "answer": "B"
+  },
+  {
+    "question": "Which part of the computer is used for permanent data storage?",
+    "A": "RAM",
+    "B": "Cache",
+    "C": "Hard Drive",
+    "D": "CPU",
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a cloud storage service?",
+    "A": "Dropbox",
+    "B": "Microsoft Word",
+    "C": "Adobe Photoshop",
+    "D": "Notepad",
+    "answer": "A"
+  },
+  {
+    "question": "What is the primary purpose of a database?",
+    "A": "To store and manage data",
+    "B": "To run applications",
+    "C": "To create graphics",
+    "D": "To browse the web",
+    "answer": "A"
+  },
+  {
+    "question": "Which protocol is used for secure communication over the internet?",
+    "A": "HTTP",
+    "B": "FTP",
+    "C": "HTTPS",
+    "D": "SMTP",
+    "answer": "C"
+  },
+  {
+    "question": "What is the function of an operating system?",
+    "A": "To manage hardware and software resources",
+    "B": "To provide internet connectivity",
+    "C": "To design graphics",
+    "D": "To create web pages",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'Wi-Fi' stand for?",
+    "A": "Wireless Fidelity",
+    "B": "Wide Fidelity",
+    "C": "Wireless Functionality",
+    "D": "Wide Functionality",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'ATM' stand for?",
+    "A": "Automatic Teller Machine",
+    "B": "Automated Transaction Manager",
+    "C": "Automated Teller Management",
+    "D": "Automatic Transaction Machine",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'NASA' stand for?",
+    "A": "National Aeronautics and Space Administration",
+    "B": "National Association of Space Activities",
+    "C": "North American Space Agency",
+    "D": "National Aeronautical Science Agency",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'GPS' stand for?",
+    "A": "Global Positioning System",
+    "B": "Global Position System",
+    "C": "Geographic Positioning System",
+    "D": "General Positioning System",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'HTML' stand for?",
+    "A": "Hypertext Markup Language",
+    "B": "Hightext Markup Language",
+    "C": "Hyperlink Text Markup Language",
+    "D": "Hypertext Machine Language",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'FBI' stand for?",
+    "A": "Federal Bureau of Investigation",
+    "B": "Federal Bureau of Intelligence",
+    "C": "Forensic Bureau of Investigation",
+    "D": "Federal Bureau of Internal Affairs",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'CEO' stand for?",
+    "A": "Chief Executive Officer",
+    "B": "Chief Employment Officer",
+    "C": "Chief Evaluation Officer",
+    "D": "Chief Energy Officer",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'PDF' stand for?",
+    "A": "Portable Document Format",
+    "B": "Personal Document File",
+    "C": "Public Document Format",
+    "D": "Portable Data File",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'Wi-Fi' stand for?",
+    "A": "Wireless Fidelity",
+    "B": "Wide Fidelity",
+    "C": "Wireless Functionality",
+    "D": "Wide Functionality",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'USB' stand for?",
+    "A": "Universal Serial Bus",
+    "B": "Universal Service Bus",
+    "C": "Universal Storage Bus",
+    "D": "Universal System Bus",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'IMF' stand for?",
+    "A": "International Monetary Fund",
+    "B": "International Management Fund",
+    "C": "International Market Fund",
+    "D": "International Monetary Finance",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'OPEC' stand for?",
+    "A": "Organization of the Petroleum Exporting Countries",
+    "B": "Organization for Petroleum Export and Cooperation",
+    "C": "Organization of Petroleum Energy Countries",
+    "D": "Organization of the Petroleum Energy Coalition",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'R&D' stand for?",
+    "A": "Research and Development",
+    "B": "Research and Design",
+    "C": "Recreation and Development",
+    "D": "Research and Database",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'UN' stand for?",
+    "A": "United Nations",
+    "B": "Universal Network",
+    "C": "United Nation",
+    "D": "Union Nation",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'SARS' stand for?",
+    "A": "Severe Acute Respiratory Syndrome",
+    "B": "Severe Acute Respiratory System",
+    "C": "Severe Airborne Respiratory Syndrome",
+    "D": "Serious Acute Respiratory Syndrome",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'ISO' stand for?",
+    "A": "International Organization for Standardization",
+    "B": "International Standards Organization",
+    "C": "International System Organization",
+    "D": "International Standardization Organization",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'LCD' stand for?",
+    "A": "Liquid Crystal Display",
+    "B": "Light Crystal Display",
+    "C": "Liquid Color Display",
+    "D": "Light Color Display",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'NATO' stand for?",
+    "A": "North Atlantic Treaty Organization",
+    "B": "National Atlantic Treaty Organization",
+    "C": "North American Treaty Organization",
+    "D": "North Atlantic Trade Organization",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'TBD' stand for?",
+    "A": "To Be Determined",
+    "B": "To Be Declared",
+    "C": "To Be Delivered",
+    "D": "To Be Discussed",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'PHD' stand for?",
+    "A": "Doctor of Philosophy",
+    "B": "Philosophical Doctorate",
+    "C": "Professional Higher Degree",
+    "D": "Philosophy Doctorate",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'SMS' stand for?",
+    "A": "Short Message Service",
+    "B": "Simple Messaging System",
+    "C": "Standard Message Service",
+    "D": "Short Messaging System",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'ETA' stand for?",
+    "A": "Estimated Time of Arrival",
+    "B": "Exact Time of Arrival",
+    "C": "Estimated Time Adjustment",
+    "D": "Estimated Travel Arrival",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'FAQ' stand for?",
+    "A": "Frequently Asked Questions",
+    "B": "Frequently Answered Questions",
+    "C": "Fast Asked Questions",
+    "D": "Frequently Addressed Questions",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'VPN' stand for?",
+    "A": "Virtual Private Network",
+    "B": "Virtual Public Network",
+    "C": "Virtual Protected Network",
+    "D": "Virtual Personal Network",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'BCE' stand for?",
+    "A": "Before Common Era",
+    "B": "Before Christian Era",
+    "C": "Before Current Era",
+    "D": "Before Common Era",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'CCTV' stand for?",
+    "A": "Closed Circuit Television",
+    "B": "Closed Circuit Transmission Video",
+    "C": "Closed Communication Television",
+    "D": "Closed Circuit Technology Video",
+    "answer": "A"
+  },
+  {
+    "question": "What does 'WTO' stand for?",
+    "A": "World Trade Organization",
+    "B": "World Treaty Organization",
+    "C": "World Trade Office",
+    "D": "Worldwide Trade Organization",
+    "answer": "A"
+  },
+  {
+    "question": "In which year were the first modern Olympic Games held?",
+    "A": "1896",
+    "B": "1900",
+    "C": "1920",
+    "D": "1936",
+    "answer": "A"
+  },
+  {
+    "question": "Which city hosted the 2000 Summer Olympics?",
+    "A": "Sydney",
+    "B": "Athens",
+    "C": "Beijing",
+    "D": "London",
+    "answer": "A"
+  },
+  {
+    "question": "Who is known as the fastest man in the world?",
+    "A": "Usain Bolt",
+    "B": "Carl Lewis",
+    "C": "Jesse Owens",
+    "D": "Michael Johnson",
+    "answer": "A"
+  },
+  {
+    "question": "How many gold medals did Michael Phelps win in the 2008 Beijing Olympics?",
+    "A": "6",
+    "B": "8",
+    "C": "10",
+    "D": "12",
+    "answer": "B"
+  },
+  {
+    "question": "Which country has won the most Olympic medals?",
+    "A": "USA",
+    "B": "Russia",
+    "C": "China",
+    "D": "Germany",
+    "answer": "A"
+  },
+  {
+    "question": "Which sport made its Olympic debut in 1896?",
+    "A": "Basketball",
+    "B": "Wrestling",
+    "C": "Soccer",
+    "D": "Volleyball",
+    "answer": "B"
+  },
+  {
+    "question": "In which city will the 2024 Summer Olympics be held?",
+    "A": "Tokyo",
+    "B": "Paris",
+    "C": "Los Angeles",
+    "D": "London",
+    "answer": "B"
+  },
+  {
+    "question": "What is the symbol of the Olympics?",
+    "A": "Five Rings",
+    "B": "Four Squares",
+    "C": "Three Triangles",
+    "D": "Two Circles",
+    "answer": "A"
+  },
+  {
+    "question": "Who was the first woman to win an Olympic gold medal?",
+    "A": "Charlotte Cooper",
+    "B": "Babe Didrikson Zaharias",
+    "C": "Mildred "Babe" Didrikson",
+    "D": "Mary Peters",
+    "answer": "A"
+  },
+  {
+    "question": "What is the Olympic motto?",
+    "A": "Citius, Altius, Fortius",
+    "B": "Faster, Higher, Stronger",
+    "C": "Unity in Diversity",
+    "D": "Play with Honor",
+    "answer": "A"
+  },
+  {
+    "question": "Which sport is known as the 'Queen of Sports'?",
+    "A": "Athletics",
+    "B": "Gymnastics",
+    "C": "Swimming",
+    "D": "Football",
+    "answer": "A"
+  },
+  {
+    "question": "How often are the Summer Olympics held?",
+    "A": "Every 2 years",
+    "B": "Every 4 years",
+    "C": "Every 5 years",
+    "D": "Every 6 years",
+    "answer": "B"
+  },
+  {
+    "question": "Which country hosted the first Winter Olympics?",
+    "A": "Switzerland",
+    "B": "France",
+    "C": "Norway",
+    "D": "Germany",
+    "answer": "C"
+  },
+  {
+    "question": "Who holds the record for the most Olympic gold medals?",
+    "A": "Michael Phelps",
+    "B": "Larisa Latynina",
+    "C": "Bjørn Dæhlie",
+    "D": "Mark Spitz",
+    "answer": "A"
+  },
+  {
+    "question": "What year were the first Winter Olympics held?",
+    "A": "1924",
+    "B": "1932",
+    "C": "1948",
+    "D": "1960",
+    "answer": "A"
+  },
+  {
+    "question": "Which city hosted the 2016 Summer Olympics?",
+    "A": "Beijing",
+    "B": "Rio de Janeiro",
+    "C": "London",
+    "D": "Tokyo",
+    "answer": "B"
+  },
+  {
+    "question": "In which sport do athletes compete in a decathlon?",
+    "A": "Track and Field",
+    "B": "Swimming",
+    "C": "Gymnastics",
+    "D": "Cycling",
+    "answer": "A"
+  },
+  {
+    "question": "Who was the first American woman to win a gold medal in gymnastics?",
+    "A": "Mary Lou Retton",
+    "B": "Simone Biles",
+    "C": "Shannon Miller",
+    "D": "Kerri Strug",
+    "answer": "A"
+  },
+  {
+    "question": "What event do athletes compete in the Olympic sport of fencing?",
+    "A": "Sabre",
+    "B": "Spear",
+    "C": "Sword",
+    "D": "Knife",
+    "answer": "A"
+  },
+  {
+    "question": "Which Olympic sport involves a balance beam?",
+    "A": "Diving",
+    "B": "Gymnastics",
+    "C": "Cheerleading",
+    "D": "Figure Skating",
+    "answer": "B"
+  },
+  {
+    "question": "What is the name of the Olympic flame's relay?",
+    "A": "Torch Relay",
+    "B": "Flame Passage",
+    "C": "Light Journey",
+    "D": "Fire Relay",
+    "answer": "A"
+  },
+  {
+    "question": "In which sport is the term 'heptathlon' used?",
+    "A": "Athletics",
+    "B": "Swimming",
+    "C": "Biking",
+    "D": "Rowing",
+    "answer": "A"
+  },
+  {
+    "question": "What are the colors of the Olympic rings?",
+    "A": "Blue, Yellow, Black, Green, Red",
+    "B": "Red, White, Blue, Green, Yellow",
+    "C": "Black, Yellow, Red, White, Green",
+    "D": "Red, Blue, Green, Yellow, Orange",
+    "answer": "A"
+  },
+  {
+    "question": "What year did the Olympics resume after WWII?",
+    "A": "1948",
+    "B": "1952",
+    "C": "1944",
+    "D": "1956",
+    "answer": "A"
+  },
+  {
+    "question": "What is the official language of the Olympics?",
+    "A": "English",
+    "B": "French",
+    "C": "Spanish",
+    "D": "Both A and B",
+    "answer": "D"
+  },
+  {
+    "question": "Which country won the most medals in the 2020 Tokyo Olympics?",
+    "A": "USA",
+    "B": "China",
+    "C": "Great Britain",
+    "D": "Russia",
+    "answer": "A"
   }
   
 ]
