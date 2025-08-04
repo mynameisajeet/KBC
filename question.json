@@ -4158,7 +4158,7 @@
     "B": "I",
     "C": "J",
     "D": "K",
-    "answer": "A"
+    "answer": "B"
   },
   {
     "question": "What is the missing number: 8, 16, 24, __, 40?",
@@ -5562,3 +5562,4 @@
   }
   
 ]
+
